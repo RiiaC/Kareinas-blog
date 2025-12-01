@@ -180,11 +180,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8b4132ba05a4a466",
   "lastOpenFiles": [
+    "source/content/category-folder/index.md",
+    "source/content/category-folder/2025-12-01 snow and further progress.md",
+    "source/content/images/2025-12-01 insulation lists.jpg",
+    "source/content/images",
+    "source/docs/advanced/architecture.md",
+    "source/content/index.md",
     "README.md"
   ]
 }
