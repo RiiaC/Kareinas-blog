@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image: "[[2025-10-29 BeRreal oss.jpeg]]"
 photos_pubished: No
 weight(kg): 58.3
-high temp (C): 6
-low temp (C): 3
+high_temp(°C): 6
+low_temp(°C): 3
 training:
   - Yoga
   - Walk

@@ -1,5 +1,5 @@
 ---
-published: yes
+also_on_Dreamwidth: yes
 tags:
   - computer
 country:
@@ -8,8 +8,8 @@ location:
   - Lövånger
   - Skelleftehamn
 weight(kg): 58.5
-high temp (C): 9
-low temp (C): 0
+high_temp(°C): 9
+low_temp(°C): 0
 image: "[[2025-10-15 BeReal oss.jpeg]]"
 photos_pubished: No
 ---

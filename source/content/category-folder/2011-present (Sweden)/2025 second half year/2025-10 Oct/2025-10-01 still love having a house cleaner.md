@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - housework
   - sewing_project
@@ -11,8 +11,8 @@ location:
 image: "[[2025-10-01 bed extender.jpg]]"
 photos_pubished: No
 weight(kg):
-high temp (C): 12
-low temp (C): 2
+high_temp(°C): 12
+low_temp(°C): 2
 training:
   - Pilates
   - Workout_from_Frei

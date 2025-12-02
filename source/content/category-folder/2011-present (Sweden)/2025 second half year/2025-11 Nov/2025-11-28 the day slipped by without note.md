@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
   - must_have_done_somethinh
 country:

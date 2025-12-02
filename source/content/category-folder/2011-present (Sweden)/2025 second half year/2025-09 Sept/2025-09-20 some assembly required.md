@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - second_hand_stores
   - sewing_project
@@ -11,8 +11,8 @@ location:
 image: "[[2025-09-20 Blue purple silk short bilaut.jpg]]"
 photos_pubished: Linked
 weight(kg): 57.8
-high temp (C): 16
-low temp (C): 7
+high_temp(°C): 16
+low_temp(°C): 7
 training:
   - Yoga
   - HIT

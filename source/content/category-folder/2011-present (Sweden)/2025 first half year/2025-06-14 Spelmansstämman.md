@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 location: Luleå
 tags:
   - folk_music

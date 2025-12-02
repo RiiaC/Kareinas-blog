@@ -1,6 +1,6 @@
 ---
 date started: 2025-06-11
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - car_accident
   - scooter_accident

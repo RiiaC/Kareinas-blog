@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"source/content/category-folder/2011-present (Sweden)/2025 Lofoten trip\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11079439
+      }
+    },
+    {
+      "query": "path:\"source/content/category-folder/2011-present (Sweden)/2025 first half year\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10443990
+      }
+    },
+    {
+      "query": "path:\"source/content/category-folder/2011-present (Sweden)/2025 second half year\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6045678
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.429678113587404,
+  "close": true
 }

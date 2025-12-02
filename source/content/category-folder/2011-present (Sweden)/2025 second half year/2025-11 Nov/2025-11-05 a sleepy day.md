@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -7,8 +7,8 @@ location:
   - Lövånger
   - Umeå
 weight(kg): 58.1
-high temp (C): 10
-low temp (C): 4
+high_temp(°C): 10
+low_temp(°C): 4
 training:
   - Run_to_bus
   - Yoga

@@ -4,7 +4,7 @@ animals_seen:
   - Moose
   - Rabbit
   - Sheep
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - roadtrip
 country:

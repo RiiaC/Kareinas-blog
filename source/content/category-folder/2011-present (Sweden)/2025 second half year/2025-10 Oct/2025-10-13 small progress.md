@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -7,8 +7,8 @@ location:
   - Lövånger
 image: "[[2025-10-11 after clean up.jpg]]"
 photos_pubished:
-high temp (C): 6
-low temp (C): 2
+high_temp(°C): 6
+low_temp(°C): 2
 training:
   - Pilates
   - Yoga

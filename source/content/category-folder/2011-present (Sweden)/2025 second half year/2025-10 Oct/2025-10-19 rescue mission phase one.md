@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -11,8 +11,8 @@ location:
 image: "[[2025-10-19 BeReal view from Braehus.jpeg]]"
 photos_pubished:
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
 ---

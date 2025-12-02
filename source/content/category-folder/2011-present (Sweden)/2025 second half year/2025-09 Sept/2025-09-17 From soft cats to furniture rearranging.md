@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - clean_sheets
   - re-arranging_furniture
@@ -10,8 +10,8 @@ location:
 image: "[[2025-09-17 the softest cat looks.jpg]]"
 photos_pubished: No
 weight(kg): 58.3
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 ---
 I sat down on the couch to do a little carving on the Skellefteåyxa mould while talking with Keldor durring his drive to work, and couldn't find a good focal distance through the magnifying lamp. Then I remembered that it works better with my computer glasses than my normal (progressive) lenses, and pushed the lamp up out of the way, so I could go get them and realised that Skaði had come to sit on the arm of the couch next to me. In such bright light the brown of her undercoat really shows!
 Since I worked from home, I managed to wash the bedsheets, so sleeping tonight will be wonderful. 

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - uni_work
   - progress_report
@@ -11,8 +11,8 @@ location:
 image: "[[2025-10-07 BeReal Keldor.jpeg]]"
 photos_pubished: No
 weight(kg): 57.5
-high temp (C): 10
-low temp (C): 6
+high_temp(°C): 10
+low_temp(°C): 6
 training:
   - Yoga
   - Walk

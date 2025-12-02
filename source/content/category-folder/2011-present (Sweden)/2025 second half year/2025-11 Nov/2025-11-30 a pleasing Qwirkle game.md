@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 57.5
-high temp (C): 3
-low temp (C): -3
+high_temp(°C): 3
+low_temp(°C): -3
 training:
   - HIT
   - Yoga

@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
   - acroyoga
   - sewing_project
@@ -11,8 +11,8 @@ location:
 image: "[[2025-10-27 plan A.jpeg]]"
 photos_pubished: No
 weight(kg):
-high temp (C): 7
-low temp (C): 6
+high_temp(°C): 7
+low_temp(°C): 6
 training:
   - Yoga
   - Acroyoga

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image: "[[2025-11-20 BeReal swollen wrist.jpeg]]"
 photos_pubished: No
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
   - Armoured_combat

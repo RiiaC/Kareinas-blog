@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - bureaucracy
   - roadtrip
@@ -14,8 +14,8 @@ location:
 image: "[[2025-11-21 BeReal oss.jpeg]]"
 photos_pubished: No
 weight(kg): 57.9
-high temp (C): -8
-low temp (C): -15
+high_temp(°C): -8
+low_temp(°C): -15
 training:
   - Yoga
 ---

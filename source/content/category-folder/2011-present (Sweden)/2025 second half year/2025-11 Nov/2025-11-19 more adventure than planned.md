@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - adventures
   - bus
@@ -12,8 +12,8 @@ location:
 image: "[[2025-11-19 BeReal backpack.jpeg]]"
 photos_pubished: No
 weight(kg): 58.1
-high temp (C): -9
-low temp (C): -13
+high_temp(°C): -9
+low_temp(°C): -13
 training:
   - Yoga
 ---

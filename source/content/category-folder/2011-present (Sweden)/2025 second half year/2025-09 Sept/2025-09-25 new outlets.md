@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 58.3
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
   - Treadmill

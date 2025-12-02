@@ -1,7 +1,7 @@
 ---
 animals_seen:
   - Reindeer
-published: Yes
+also_on_Dreamwidth: Yes
 country:
   - Sweden
   - Norway

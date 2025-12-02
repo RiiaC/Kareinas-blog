@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - hällristningar
   - adventures
@@ -12,8 +12,8 @@ location:
 image: "[[2025-09-28 us.jpg]]"
 photos_pubished: No
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
   - Load_unload_car

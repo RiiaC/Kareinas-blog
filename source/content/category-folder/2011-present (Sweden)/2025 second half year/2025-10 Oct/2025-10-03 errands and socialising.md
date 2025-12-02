@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - second_hand_stores
   - re-arranging_furniture
@@ -11,8 +11,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 58.1
-high temp (C): 12
-low temp (C): 8
+high_temp(°C): 12
+low_temp(°C): 8
 training:
   - Yoga
 ---

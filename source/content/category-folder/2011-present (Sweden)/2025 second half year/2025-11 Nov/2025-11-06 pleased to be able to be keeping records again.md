@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - food
   - pizza
@@ -11,8 +11,8 @@ location:
 image: "[[2025-11-06 BeReal Keldor.jpeg]]"
 photos_pubished: No
 weight(kg): 57.4
-high temp (C): 8
-low temp (C): 3
+high_temp(°C): 8
+low_temp(°C): 3
 training:
   - Pilates
   - Yoga

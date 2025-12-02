@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
   - snow
   - home_improvements
@@ -10,8 +10,8 @@ location:
 image: "[[2025-12-01 insulation lists.jpg]]"
 photos_pubished:
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - shovel_snow
   - Yoga

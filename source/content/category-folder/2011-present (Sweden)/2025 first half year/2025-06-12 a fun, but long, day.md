@@ -3,7 +3,7 @@ tags:
   - SGNT
   - second_hand_stores
   - work
-published: Yes
+also_on_Dreamwidth: Yes
 country: Sweden
 location:
   - Umeå

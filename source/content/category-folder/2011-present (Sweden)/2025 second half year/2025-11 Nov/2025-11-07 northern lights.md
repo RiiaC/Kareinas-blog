@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image: "[[2025-11-07 northern lights 1.jpg]]"
 photos_pubished:
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
 ---

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
 image: "[[2025-09-20 northern lights behind tree.jpg]]"
 photos_pubished: Linked
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
   - Walk

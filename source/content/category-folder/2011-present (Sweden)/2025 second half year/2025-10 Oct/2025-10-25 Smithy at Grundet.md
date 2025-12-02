@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
 image: "[[2025-10-25 belt hooks.jpg]]"
 photos_pubished: Linked
 weight(kg): 57.6
-high temp (C): 7
-low temp (C): 6
+high_temp(°C): 7
+low_temp(°C): 6
 training:
   - Yoga
 ---

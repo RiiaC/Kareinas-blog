@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - work
   - food
@@ -12,8 +12,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 50.3
-high temp (C): 15
-low temp (C): 7
+high_temp(°C): 15
+low_temp(°C): 7
 training:
   - Yoga
   - Pilates

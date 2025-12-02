@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image: "[[2025-09-06 Glötagillet.jpg]]"
 photos_pubished:
 weight(kg):
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 ---
 Woke 07:30, decided that since it was 1.5 hours later than I normally take my morning vitamins I should try to find something to eat and take them. If I had put a banana in reach  I could have just taken them with a bit or two and went back to sleep. Since I didn't I got dressed and went downstairs. Only Gudrun (evrnt steward) was awake, starting breakfast. So I found some crackers and ate a couple with my vitamins, then helped clean the kitchen from the late night food prep.
 

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 location: Lövånger
 country: Sweden
 ---

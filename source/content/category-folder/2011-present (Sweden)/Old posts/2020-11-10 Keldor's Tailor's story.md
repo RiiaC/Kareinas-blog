@@ -1,6 +1,6 @@
 ---
 date started: 2020-10-11
-published: Only on FB
+also_on_Dreamwidth: Only on FB
 ---
 - [ ] put this on Frostheim's page
 

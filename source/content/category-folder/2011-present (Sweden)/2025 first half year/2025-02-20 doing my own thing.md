@@ -1,5 +1,5 @@
 ---
-published: Only on FB
+also_on_Dreamwidth: Only on FB
 tags:
   - Double_Wars
   - "#real_butter"

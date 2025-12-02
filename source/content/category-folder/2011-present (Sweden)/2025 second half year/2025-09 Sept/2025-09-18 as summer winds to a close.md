@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 58.1
-high temp (C): 16
-low temp (C): 7
+high_temp(°C): 16
+low_temp(°C): 7
 training:
   - Yoga
   - Walk

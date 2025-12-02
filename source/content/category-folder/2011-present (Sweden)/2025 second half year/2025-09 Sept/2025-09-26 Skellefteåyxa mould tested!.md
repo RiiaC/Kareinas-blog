@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 58.3
-high temp (C): 15
-low temp (C): 7
+high_temp(°C): 15
+low_temp(°C): 7
 training:
   - Workout_from_Frei
   - Treadmill

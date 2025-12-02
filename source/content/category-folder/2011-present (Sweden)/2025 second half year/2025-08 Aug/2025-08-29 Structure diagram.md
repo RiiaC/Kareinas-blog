@@ -1,6 +1,6 @@
 ---
-published: Yes
-tags: 
+also_on_Dreamwidth: Yes
+tags:
 country:
   - Sweden
 location:

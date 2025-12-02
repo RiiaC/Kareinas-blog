@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
   - Juneborg
 image: "[[2025-10-17 Anundshög.jpg]]"
 photos_pubished:
-high temp (C):
-low temp (C):
+high_temp(°C):
+low_temp(°C):
 training:
   - Yoga
 ---

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -7,8 +7,8 @@ location:
   - Lövånger
   - Skellefteå
 weight(kg): 58.1
-high temp (C): 10
-low temp (C): 4
+high_temp(°C): 10
+low_temp(°C): 4
 training:
   - Yoga
 ---

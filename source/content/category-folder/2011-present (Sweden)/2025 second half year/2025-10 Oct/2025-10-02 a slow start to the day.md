@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - SGNT
   - progress_report
@@ -12,8 +12,8 @@ location:
 image: "[[2025-10-02 BeReal bath.jpeg]]"
 photos_pubished:
 weight(kg):
-high temp (C): 12
-low temp (C): 8
+high_temp(°C): 12
+low_temp(°C): 8
 training:
   - Yoga
 ---

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - progress_report
 country:
@@ -9,8 +9,8 @@ location:
 image: "[[2025-11-18 BeReal cookies.jpeg]]"
 photos_pubished: No
 weight(kg): 57.5
-high temp (C): -5
-low temp (C): -10
+high_temp(°C): -5
+low_temp(°C): -10
 training:
   - Yoga
 ---

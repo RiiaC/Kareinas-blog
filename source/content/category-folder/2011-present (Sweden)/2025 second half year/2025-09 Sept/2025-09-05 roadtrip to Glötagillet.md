@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -11,8 +11,8 @@ location:
 image:
 photos_pubished:
 weight(kg): 58.1
-high temp (C): 17
-low temp (C): 13
+high_temp(°C): 17
+low_temp(°C): 13
 ---
 The apples we put in the dehydrator right before bed had finished their program about the time we got up, so I moved the machine to the kitchen table to remember to deal with it later. Then I made a pie to take to the event to share, and started my work day as soon as it was in the oven.
 In my quest to find the coordinates for the various archaeological sites associated with the dataset we are in the process of mapping to our database I now know where to find the Finnish equivalent to Förnsök, https://muinaismuistot.info/. I have also started learning to use sql queries to figure out what sorts of areas are what location code number.

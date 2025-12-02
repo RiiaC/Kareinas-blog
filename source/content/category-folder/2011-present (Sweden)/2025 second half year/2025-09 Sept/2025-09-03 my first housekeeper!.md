@@ -1,12 +1,12 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
 location:
   - Lövånger
-high temp (C): 15
-low temp (C): 13
+high_temp(°C): 15
+low_temp(°C): 13
 weight(kg): 58.8
 ---
 I payed someone to clean my house today, while I washed the cat water fountain, put away stuff, and packed for Glotta Gillet. Worth. Every. Penny!!! 

@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
 country:
   - Sweden
@@ -8,8 +8,8 @@ location:
 image: "[[2025-11-13 BeReal fram.jpeg]]"
 photos_pubished: No
 weight(kg): 58
-high temp (C): 7
-low temp (C): -2
+high_temp(°C): 7
+low_temp(°C): -2
 training:
   - Yoga
 ---

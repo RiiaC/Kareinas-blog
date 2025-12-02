@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - computer
 country:
@@ -9,8 +9,8 @@ location:
 image: "[[2025-10-14 BeReal.fram.jpeg]]"
 photos_pubished: No
 weight(kg): 57.7
-high temp (C): 8
-low temp (C): 0
+high_temp(°C): 8
+low_temp(°C): 0
 training:
   - Walk
   - Pilates

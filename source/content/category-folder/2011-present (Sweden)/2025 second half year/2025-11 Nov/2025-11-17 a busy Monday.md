@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
 country:
   - Sweden
@@ -9,8 +9,8 @@ location:
 image: "[[2025-11-17 BeReal busstop.jpeg]]"
 photos_pubished: No
 weight(kg): 57.6
-high temp (C): -11
-low temp (C): -3
+high_temp(°C): -11
+low_temp(°C): -3
 training:
   - Yoga
 ---

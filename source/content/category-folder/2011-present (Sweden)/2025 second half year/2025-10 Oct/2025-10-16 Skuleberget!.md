@@ -1,5 +1,5 @@
 ---
-published: Not yet
+also_on_Dreamwidth: Not yet
 tags:
   - adventures
 country:
@@ -11,8 +11,8 @@ location:
 image: "[[2025-10-16 selfie.jpg]]"
 photos_pubished:
 weight(kg): 57.7
-high temp (C): 10
-low temp (C): 3
+high_temp(°C): 10
+low_temp(°C): 3
 training:
   - Load_unload_car
   - Hike

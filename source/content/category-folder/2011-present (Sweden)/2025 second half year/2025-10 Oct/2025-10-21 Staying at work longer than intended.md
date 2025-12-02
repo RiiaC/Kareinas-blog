@@ -1,5 +1,5 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - commute
 country:
@@ -10,8 +10,8 @@ location:
 image: "[[2025-10-21 BeReal fram.jpeg]]"
 photos_pubished: No
 weight(kg): 58.3
-high temp (C): 9
-low temp (C): 5
+high_temp(°C): 9
+low_temp(°C): 5
 training:
   - Yoga
 ---

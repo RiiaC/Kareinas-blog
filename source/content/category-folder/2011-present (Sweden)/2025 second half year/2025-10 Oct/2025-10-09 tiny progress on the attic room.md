@@ -1,13 +1,13 @@
 ---
-published: Yes
+also_on_Dreamwidth: Yes
 tags:
   - home_improvements
 country:
   - Sweden
 location:
   - Lövånger
-high temp (C): 10
-low temp (C): 1
+high_temp(°C): 10
+low_temp(°C): 1
 training:
   - Yoga
 ---
