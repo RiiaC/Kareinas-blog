@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: contents
+    filters:
+      and:
+        - file.path.contains("content")
+        - '!file.path.contains("images")'
+    order:
+      - file.name
+      - country
+      - location
+      - high_temp(°C)
+      - low_temp(°C)
+      - weight(kg)
+      - training
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: training
+        direction: ASC
