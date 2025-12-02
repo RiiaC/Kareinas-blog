@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "3091e7cf9667a5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "3091e7cf9667a5ad",
   "lastOpenFiles": [
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2021-12 Dec/2025-12-01 snow and further progress.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-12-02.md",
     "source/content/index.md",
     "Kareina.ico",
@@ -203,7 +219,6 @@
     "source/docs/advanced/creating components.md",
     "source/docs/advanced/architecture.md",
     "source/content/category-folder/2011-present (Sweden)/2025 first half year/2025-02-14 more stars.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2021-12 Dec/2025-12-01 snow and further progress.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts/2020-11-10 Keldor's Tailor's story.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/sortspec.md",
