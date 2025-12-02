@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/configuration.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "configuration"
+              "title": "index"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "8b4132ba05a4a466",
   "lastOpenFiles": [
+    "source/content/category-folder/index.md",
+    "source/docs/configuration.md",
     "README.md",
     "source/README.md",
     "source/CODE_OF_CONDUCT.md",
@@ -221,8 +223,6 @@
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-20 fighter practice and a bank approval.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-18 a Wednesday at home.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-19 more adventure than planned.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-17 a busy Monday.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-16 Linda hälsar på.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-10 Oct",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-09 Sept",
