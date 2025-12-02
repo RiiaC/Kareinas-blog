@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/docs/configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "configuration"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,11 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b4132ba05a4a466",
+  "active": "0591dbc0f0571636",
   "lastOpenFiles": [
+    "README.md",
+    "source/README.md",
+    "source/CODE_OF_CONDUCT.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
+    "source/content/index.md",
     "source/content/category-folder/2011-present (Sweden)/2025 first half year/2025-02-14 more stars.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2021-12 Dec/2025-12-01 snow and further progress.md",
-    "source/content/index.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts/2020-11-10 Keldor's Tailor's story.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/sortspec.md",
@@ -218,11 +223,6 @@
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-19 more adventure than planned.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-17 a busy Monday.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-16 Linda hälsar på.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-14 pumpafrön.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-08 Tristyn arrives.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-13 Small steps towards home improvement.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-12 Bryan's new house.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-11 Bryan arrives.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-10 Oct",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-09 Sept",
