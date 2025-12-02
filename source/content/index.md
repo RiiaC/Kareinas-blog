@@ -2,7 +2,7 @@
 title: Kareina's New blog
 ---
 # Second Try
-On Tuesday 2025-12-02 I poked around the documentation a bit, and found the part where it suggested that one could edit the quartz.config.ts file, so I found it using Windows explorer, and edited it in Notepad++. This first attempt I only changed the title of the page to Kareina
+On Tuesday 2025-12-02 I poked around the documentation a bit, and found the part where it suggested that one could edit the quartz.config.ts file, so I found it using Windows explorer, and edited it in Notepad++. This first attempt I only changed the title of the page to Kareina's Blog.
 # First Try
 This will become my blog. On Monday, 2025-12-01 I followed the instructions at https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1 as far as "forking" their template, creating a new GitHub repository from it for my blog, and using GitHub Desktop to clone it to the computer. Now I have opened it in Obsidian, and can edit it here. In theory, this gets pushed back to GitHub when I push sync, and, after a bit of thinking time, it will show up on my blog at https://riiac.github.io/Kareinas-blog/.  Tomorrow, or at least another day, I can bring over my data from my actual Obsidian blogs vault and learn to customise it.,
 
