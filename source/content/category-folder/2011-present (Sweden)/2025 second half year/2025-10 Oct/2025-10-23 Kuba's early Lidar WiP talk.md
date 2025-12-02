@@ -5,6 +5,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 image: "[[2025-10-23 BeReal Kuba.jpeg]]"
 photos_pubished:
 weight(kg): 58.1

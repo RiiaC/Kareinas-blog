@@ -5,6 +5,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 high_temp(°C): 15
 low_temp(°C): 13
 weight(kg): 58.8

@@ -6,6 +6,7 @@ country:
 location:
   - Lövånger
   - Skellefteå
+  - Umeå
 weight(kg): 58.1
 high_temp(°C): 10
 low_temp(°C): 4

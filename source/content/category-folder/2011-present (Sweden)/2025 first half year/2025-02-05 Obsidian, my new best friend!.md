@@ -6,6 +6,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 training:
   - Yoga
 ---

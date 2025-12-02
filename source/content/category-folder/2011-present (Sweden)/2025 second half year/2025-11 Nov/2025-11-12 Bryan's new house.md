@@ -6,6 +6,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 weight(kg): 58
 training:
   - Yoga

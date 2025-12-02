@@ -6,6 +6,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 image: "[[2025-10-14 BeReal.fram.jpeg]]"
 photos_pubished: No
 weight(kg): 57.7

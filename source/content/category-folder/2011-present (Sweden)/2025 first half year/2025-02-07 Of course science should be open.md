@@ -1,3 +1,18 @@
+---
+also_on_Dreamwidth: Not yet
+tags:
+country:
+  - Sweden
+location:
+  - Lövånger
+image:
+photos_pubished:
+weight(kg):
+high_temp(°C):
+low_temp(°C):
+training:
+  - Yoga
+---
 My interest in science in general, and open science in particular, can be, in a large part, attributed to my favourite book when I was little We had an old copy of a paperback book, titled Madam Curie. It was translated by Vincent Sheean from the orginal by Eve Curie, published in 1938. My copy of the book had a red cover with a drawing of Marie working in a laboratory. I read that book over and over, and over. I have searched, and can’t find a photo on line of the edition I had, but I am delighted to see that a [hardcover library copy of book has been scanned and made available online](https://archive.org/details/madamecuriebiogr00evec_0/page/204/mode/2up%20%22smartCard-inline). I suspect that my copy was an abridged version, as there are more details than I remember, but the parts I remember well appear exactly as I remember them, so my copy wasn’t a simplified version, even if it may have been shorter than this edition. Now that I have found it, I am looking forward to reading it in full, and seeing how much, if anything, is new to me.
 
 One scene in the story has always stuck in my memory, and I have quoted it many times over the years whenever the topic of Open Science comes up. The conversation between Marie and Pierre Curie about how they will share the steps needed to produce radium from pitchblende ore, starting on page 203:

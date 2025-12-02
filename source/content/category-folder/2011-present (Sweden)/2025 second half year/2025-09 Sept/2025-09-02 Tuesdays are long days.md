@@ -8,6 +8,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 weight(kg): 59.2
 ---
 A long work day today, as normal for Tuesdays, as our weekly meeting for the database team is at 15:00. We ended early enough thst I got the 16:15 bus home, which meant an 11 hour work day, since, of course, worked on the bus.

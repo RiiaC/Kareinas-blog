@@ -9,6 +9,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 image: "[[2025-10-02 BeReal bath.jpeg]]"
 photos_pubished:
 weight(kg):

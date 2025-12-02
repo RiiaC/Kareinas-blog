@@ -8,6 +8,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 image: "[[2025-10-07 BeReal Keldor.jpeg]]"
 photos_pubished: No
 weight(kg): 57.5

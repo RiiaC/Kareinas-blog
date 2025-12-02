@@ -5,7 +5,6 @@ country:
   - Sweden
 location:
   - Lövånger
-  - Umeå
 image: "[[2025-11-04 cookie tray.jpg]]"
 photos_pubished:
 weight(kg):

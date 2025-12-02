@@ -5,6 +5,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 image: "[[2025-09-10 a new me portrait.jpeg]]"
 photos_pubished:
 weight(kg): 57.7
