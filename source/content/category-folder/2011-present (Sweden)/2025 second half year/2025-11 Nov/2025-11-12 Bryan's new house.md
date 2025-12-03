@@ -18,3 +18,5 @@ After looking through everything we sat and talked for quite a while before walk
 He flyes back to Pennsylvania on Monday, and plans to move here next August after the kids head off to College. 
 
 This means that if we need to stay somewhere else this winter when we are getting the plumbing done, we can syay there.
+
+Previous post: [[2025-11-11 Bryan arrives]]

@@ -17,4 +17,7 @@ Reengarda  crafts day.
 Helped Tristyn cut out his first tunic
 
 Helped Gilbert cut out a Starwars cloak and hood
+
 ![[2025-11-09 BeReal Tristyn.jpeg]]
+
+Previous post: [[2025-11-08 Tristyn arrives]]

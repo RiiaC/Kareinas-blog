@@ -23,3 +23,4 @@ And we hope to have the insulation for the bedroom part done and covered with wa
 ![[2025-11-30 BeReal isolering.jpeg]]
 
 ![[2025-11-30 BeReal oss.jpeg]]
+Previous post: [[2025-11-29 a nice day ends with extra flare]]

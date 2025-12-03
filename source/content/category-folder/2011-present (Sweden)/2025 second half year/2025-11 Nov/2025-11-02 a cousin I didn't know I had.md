@@ -24,8 +24,11 @@ While he drove I did cleaning and rearranging of the attic, and started an inven
 I used his new skull cake pan to bake him an oven pancake. It looks like a light bulb...
 
 I also took away the old under counter light in the kitchen, which is mo longer needed now that we have the longer led light strip. Now one can see the tools hanging by the wall!
+
 ![[2025-11-02 Skaði and Kali.jpg]]
 
 ![[2025-11-02 counter.png]]
 
 ![[2025-11-02 skull pancake.jpeg]]
+
+Previous post: [[2025-11-01 Storforsen]]

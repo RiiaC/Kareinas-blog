@@ -39,3 +39,5 @@ From here the plan is:
 - [ ] take photos 
 
 I put the project down because Keldor decided he was tired and was going to bed early. He said I could stay up longer, but this sounded like a good idea, so I was in bed by 21:40 and went straight to sleep. 
+
+Previous post: [[2025-11-21 seger över byråkrati]]

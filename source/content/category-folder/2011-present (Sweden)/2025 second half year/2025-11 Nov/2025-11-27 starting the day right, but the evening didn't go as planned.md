@@ -59,5 +59,9 @@ Yes, if I wait to cross the street till an officer stops traffic again. Yes, yes
 
 A few minutes later I was home again, where I beat him in a game of Qwirkle, spread more of the coarse saw dust in the attic outside of where the bedroom will be, and watched an archaeology documentary. 
 
+Previous post: [[2025-11-26 first day group training]]
+
+
+
 
 

@@ -41,3 +41,6 @@ Keldor and Daniel arrived as food was ready. Then we played Unstable Unicorns. C
 ![[2025-11-01 naanbröd.png]]
 
 ![[2025-11-01 Jävre.png]]
+
+
+Previous post: [[2025-10-31 gaming night]]

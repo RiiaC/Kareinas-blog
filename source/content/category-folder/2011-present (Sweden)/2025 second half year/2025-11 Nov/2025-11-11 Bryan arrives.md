@@ -19,3 +19,6 @@ Bryan flew in, he signs the paperwork for his house tomorrow!
 
 Keldor was late getting home due to an semi blocking traffic near Månbyn.
 
+Previous post: [[2025-11-09 Hantverksträff]]
+
+

@@ -20,6 +20,9 @@ Keldor took the knives we made to work and used power tools to clean up the blad
 
 ![[2025-10-11 after clean up.jpg]]
 
+Previous post: [[2025-10-12 crafts day]]
+
+
 
 
 

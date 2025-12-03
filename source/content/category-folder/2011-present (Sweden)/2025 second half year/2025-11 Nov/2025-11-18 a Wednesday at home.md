@@ -21,4 +21,7 @@ At work today I finally finished working my way through the list sites from the 
 Baked more of the yummy butter almond cookies with raspberry-chilli jam.
 
 We finally made time to get back to work on the attic bedroom. First time in three weeks! We put up more of the horizontal boards between the uprights, and started stapling tarpaper to them to form the outside of what will become insulated walls. It doesn't look like we can continue with it till next week, unless we have energy tomorrow after work (and it is a long day tomorrow, with my three hour Swedish class not starting till I have already put in a full day), since Thursday is fighter practice, and Friday we head to Sundsvall for the SCA event. 
+
 ![[2025-11-18 BeReal cookies.jpeg]]
+
+Previous post: [[2025-11-17 a busy Monday]]

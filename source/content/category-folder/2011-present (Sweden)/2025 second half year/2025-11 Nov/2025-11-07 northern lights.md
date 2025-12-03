@@ -35,3 +35,6 @@ Before bed I went back out to see if there were any northern lights out. Saw onl
 ![[2025-11-07 BeReal fram.jpeg]]
 
 ![[2025-11-07 moonlight selfie.jpg]]
+
+Previous post: [[2025-11-06 pleased to be able to be keeping records again]]
+

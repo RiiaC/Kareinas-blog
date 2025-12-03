@@ -36,3 +36,5 @@ We didn't get home till well after 22:00, and then yoga, so we didn't get to sle
 ![[2025-11-23 kyrkoruin 2.jpg]]
 ![[2025-11-23 kyrkoruin skylt.jpg]]
 ![[2025-11-23 kyrkoruin 4.jpg]]
+
+Previous post: [[2025-11-22 Gyllengrans event]]

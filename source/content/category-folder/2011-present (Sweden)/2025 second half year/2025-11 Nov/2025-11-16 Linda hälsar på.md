@@ -18,5 +18,6 @@ Bryan sista heldag här, vi tog skrap från hans hus till återvinningscentral!
 
 Sendan mysa på soffan 
 
-
 ![[2025-11-16 BeReal mys.jpeg]]
+
+Previous post: [[2025-11-14 pumpafrön]]

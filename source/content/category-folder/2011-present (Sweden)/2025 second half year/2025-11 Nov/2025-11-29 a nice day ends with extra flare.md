@@ -42,3 +42,7 @@ I did (plus coat, etc.), and we walked down to the edge of the nature reserve wh
 
 ![[2025-11-29 Norrsken 4.jpg]]
 
+Previous post: [[2025-11-28 the day slipped by without note]]
+
+
+

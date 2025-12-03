@@ -1,7 +1,16 @@
 ---
-also_on_Dreamwidth: Yes
-location: Lövånger
-country: Sweden
+also_on_Dreamwidth: Not yet
+location:
+  - Lövånger
+country:
+  - Sweden
+tags:
+  - uni_work
+  - packaging
+  - SEAD
+  - Double_Wars
+training:
+  - Yoga
 ---
 During the work day I am working, which, right now, means learning as much as I can about SweDigArch and SEAD, and all the rest of our time is getting ready for Double Wars. We leave tomorrow. 
 

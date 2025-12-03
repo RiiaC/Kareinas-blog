@@ -22,3 +22,6 @@ I got a little work done, and cleared out my inbox before time for Swedish class
 
 Then home and relax a bit before doing yoga and getting some sleep.
 
+Previous post: [[2025-11-23 kyrkoruin]]
+
+

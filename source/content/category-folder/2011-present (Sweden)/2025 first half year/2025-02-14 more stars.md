@@ -1,6 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 tags:
+  - home_improvements
 country:
   - Sweden
 location:

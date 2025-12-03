@@ -28,3 +28,5 @@ This triggered Keldor to check the bows he is bringing for he, Holmfrid and I, w
 I went to do my yoga, and we noticed that there may be Northern Lights out, so we went for a look. Yes, very faint but there. Lots of stars, too. A beautiful night, with a very cold breeze.
 
 Then I took time to type this, and now I really sgould do that yoga and get to sleep, it is getting late.
+
+Previous post: [[2025-11-11 Bryan arrives]]

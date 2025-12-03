@@ -17,26 +17,14 @@ I decided to work from Skelleftehamn today, so that I will be able to return the
 
 Why? In part because I didn't much like the propensity of Windows 11 to do things for me without asking consent first. In part because my home Wacom pen and tablet is too old to work with that type of processor (it literally wouldn't install the driver that works with that pen/tablet, as the "platform isn't supported"), but the straw that really made It easy to decide not to keep it was when I tried to copy over the documents folder from the old computer, and it wouldn't fit. Therefore, it wouldn't be possible to install any programs, either. Nope, just nope. I will take it back, and put off buying a new one till after we get back from Boar Hunt.
 
----
-Below this not  published 
-
-# Old computer specs:
-- 32 GB ram speed 2133 MHz
-- Intel (R)Core(TM)i7-6820HQCPU@ 2.70GHz
-- 4 GB graphics card NVIDA Quadro M200M
-- 932 GB storage (714 used)
-
-**David says:**
-> first copy all files (don't forget the ones not in the document folder)
-> then clean out old data that isn't needed, then use cloneziila from an USB drive to boot the computer and make an image of the hardrive in case one needs to restore it later.
-> He has a program that will refresh the hard drive, I can do that when next I am up.
-> linux distribution on a modern usb stick, to try it on the computer and see if I like it.
-
 ![[2025-10-15 BeReal oss.jpeg]]
-After work we went to buy a ladder to fix the roof on the house, and then to the Museum for a lecture. [Järnframställning i Norrbotten](https://skelleftea.se/invanare/arkiv/evenemangskalender/evenemang/2025-09-03-jarn-i-norr---forntida-staltillverkning-bland-jagar--och-samlargrupper-i-arktiska-europa)
-
 
 ![[2025-10-15 BeReal fram.jpeg]]
+
+After work we went to buy a ladder to fix the roof on the house, and then to the Museum for a lecture. [Järnframställning i Norrbotten](https://skelleftea.se/invanare/arkiv/evenemangskalender/evenemang/2025-09-03-jarn-i-norr---forntida-staltillverkning-bland-jagar--och-samlargrupper-i-arktiska-europa)
+
+Jump to the Previous post: [[2025-10-14 perhaps I will keep it]] or scroll down for photos of the slides
+
 # Järn i norr
 ## Forntida stålverkning bland jägar- och samlargruppar i Arktiska Europa 
 ### Carina Bennerhag
@@ -166,6 +154,8 @@ Phosphorus iron also found here
 
 There are likely more production places unfound
 Asbestos ceramic, from that period. If it is there, analysera the slag
+
+Previous post: [[2025-10-14 perhaps I will keep it]] 
 
 
 

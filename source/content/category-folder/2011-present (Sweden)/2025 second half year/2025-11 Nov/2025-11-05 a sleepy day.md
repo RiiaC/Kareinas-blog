@@ -22,3 +22,5 @@ Lost a game of Qwirkle
 Did some sewing
 
 Went to bed early 
+
+Previous post: [[2025-11-04 more stuff]]

@@ -24,3 +24,6 @@ We took him to the Virya's house warming party, which was fun.
 ![[2025-11-08 BeReal Viryas fest.jpeg]]
 
 ![[2025-11-08 Tristans first runestone.png]]
+
+Previous post: [[2025-11-07 northern lights]]
+

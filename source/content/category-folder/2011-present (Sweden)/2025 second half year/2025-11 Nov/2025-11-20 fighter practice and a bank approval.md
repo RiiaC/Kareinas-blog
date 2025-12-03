@@ -21,4 +21,7 @@ Since I wasn't working anyway, I convinced myself to take the bus into town for 
 When we got home it was to a letter from the bank, which has finally approved our application for me to get access to the bank account. 
 
 So tomorrow I need to go in with him in the morning and work at his dad's house a couple of hours. Then we will go to the bank for the final step of showing ID to get Internet access.
+
 ![[2025-11-20 BeReal swollen wrist.jpeg]]
+
+Previous post: [[2025-11-19 more adventure than planned]]

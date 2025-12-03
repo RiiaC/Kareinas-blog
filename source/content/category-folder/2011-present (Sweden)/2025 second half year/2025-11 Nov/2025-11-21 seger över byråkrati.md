@@ -48,9 +48,10 @@ Today they figured out the problem. The shore was founded in the 90's, before mo
 
 Now we are nearing Sundsvall, should be on site in about 40 minutes, so a good time to post this.
 
-
-
 ![[2025-11-21 BeReal fram.jpeg]]
 
 ![[2025-11-21 BeReal oss.jpeg]]
+
 ![[2025-11-21 Högakustenbron.jpg]]
+
+Previous post: [[2025-11-20 fighter practice and a bank approval]]

@@ -1,6 +1,8 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - hearing_aids
+  - berries
 country:
   - Sweden
 location:

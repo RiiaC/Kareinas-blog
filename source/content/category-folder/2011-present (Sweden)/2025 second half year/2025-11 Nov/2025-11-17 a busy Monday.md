@@ -24,5 +24,6 @@ Once home we went and locked Bryan's garage for him, now that the previous owner
 
 Before  locking the garage, we even put Keldor’s extra bicycles in Bryan's garage to get them out of the attic. The plan is to resume work on it tomorrow. 
 
-
 ![[2025-11-17 BeReal busstop.jpeg]]
+
+Previous post: [[2025-11-16 Linda hälsar på]]

@@ -29,5 +29,7 @@ Then he added a reinforcement board to the side of the bed. The frame had cracke
 
 This morning we looked at the crack, and decided we would deal with it in stages. Stage 1, glue and screw on a reinforcement board. When we take the bed apart tomove to the upstairs room we can replace that board. I promptly forgot about it, but he remembered, so now stage 1 is done.
 
-
 ![[2025-11-13 BeReal fram.jpeg]]
+
+Previous post: [[2025-11-12 Bryan's new house]]
+

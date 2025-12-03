@@ -41,3 +41,4 @@ Edited to say, thanks David Granberg, you were able to help when Wacom's tech su
 ![[2025-10-14 BeReal2 jag.jpeg]]
 
 ![[2025-10-14 BeReal2 fram.jpeg]]
+Previous post: [[2025-10-13 small progress]]

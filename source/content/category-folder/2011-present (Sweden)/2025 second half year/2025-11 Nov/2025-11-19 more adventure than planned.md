@@ -43,6 +43,6 @@ Then we drove home, turning in to Lövånger just as the same bus, on its way to
 
 Then we found the walkers in Bryan's shed and left them out for the old lady's son to pick up. Mission accomplished, more than an hour later than planned, and now it is well past bedtime, and I should do my yoga.
 
-
-
 ![[2025-11-19 BeReal backpack.jpeg]]
+
+Previous post: [[2025-11-18 a Wednesday at home]]

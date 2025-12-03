@@ -38,3 +38,5 @@ Tomorrow I should check the Reengarda finances. I should have done it tonight, b
 ![[2025-11-06 BeReal Keldor.jpeg]]
 
 ![[2025-11-06 BeReal jag.jpeg]]
+
+Previous post: [[2025-11-05 a sleepy day]]
