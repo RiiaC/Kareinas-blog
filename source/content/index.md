@@ -6,3 +6,6 @@ After years of using Dreamwidth, and before that LiveJournal, I am in the proces
 
 So far (2025-12-02) this contains only 2025's blog posts and unpublished notes for days that never made it to [my Dreamwidth page](https://kareina.dreamwidth.org/), but I plan to go back and import the older ones, eventually. In the meantime, anyone who is curious can head over there to look.
 
+I will, after I learn how, be adding a table of contents etc, but in the short term, you can use the graph view to navigate by zooming in clicking on entries there.
+
+
