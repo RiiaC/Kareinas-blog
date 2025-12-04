@@ -4,6 +4,7 @@ tags:
   - blackcurrants
   - home_improvements
   - berries
+  - Qwirkle
 country:
   - Sweden
 location:

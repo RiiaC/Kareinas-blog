@@ -4,6 +4,8 @@ country: Sweden
 location:
   - Lövånger
 weight(kg): 56.7
+tags:
+  - Qwirkle
 ---
 I deliberately made no plans for Saturday, as I figured I needed to let my brain rest after a week of learning about my new job.
 

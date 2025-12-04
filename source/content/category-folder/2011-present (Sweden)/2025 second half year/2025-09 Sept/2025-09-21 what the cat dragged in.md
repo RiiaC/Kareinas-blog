@@ -1,6 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - Qwirkle
 country:
   - Sweden
 location:

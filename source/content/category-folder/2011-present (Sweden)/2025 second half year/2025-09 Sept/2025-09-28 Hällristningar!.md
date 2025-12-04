@@ -4,6 +4,7 @@ tags:
   - hällristningar
   - adventures
   - Archaeology
+  - Qwirkle
 country:
   - Sweden
 location:

@@ -1,6 +1,9 @@
 ---
 also_on_Dreamwidth: Not yet
 tags:
+  - yoga
+  - training
+  - zoom
 country:
   - Sweden
 location:

@@ -19,3 +19,4 @@ Since it was a half day for work, I took the time to try converting all of my ol
 
 Gaming night at Leif's. He won Ticket to Ride, Clara won Munchkin. I don't recall who won Flux, perhaps Leif.
 ![[2025-10-31 BeReal fram.jpeg]]
+Previous post: [[2025-10-29 A tired day, wherein I did stuff anyway]]

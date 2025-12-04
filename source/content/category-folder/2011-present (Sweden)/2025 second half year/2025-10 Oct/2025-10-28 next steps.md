@@ -1,6 +1,10 @@
 ---
 also_on_Dreamwidth: Not yet
 tags:
+  - GitHub
+  - home_improvements
+  - Qwirkle
+  - crafts
 country:
   - Sweden
 location:
@@ -23,3 +27,4 @@ After work Clara slaughtered us in Qwirkle, and then we did the next few steps o
 
 ![[2025-10-28 BeReal jag.jpeg]]
 
+Previous post: [[2025-10-27 Successful acroyoga after a long break]]

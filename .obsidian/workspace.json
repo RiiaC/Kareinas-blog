@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a59e8941287a9711",
+  "active": "3091e7cf9667a5ad",
   "lastOpenFiles": [
     "source/content/category-folder/2011-present (Sweden)/Old posts/2020-11-10 Keldor's Tailor's story.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts",

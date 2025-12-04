@@ -32,3 +32,5 @@ This evening I make progress on altering the sweater I bought in Vadstena on our
 ![[2025-10-29 BeReal fram.jpeg]]
 
 ![[2025-10-29 BeRreal oss.jpeg]]
+
+Previous post: [[2025-10-28 next steps]]

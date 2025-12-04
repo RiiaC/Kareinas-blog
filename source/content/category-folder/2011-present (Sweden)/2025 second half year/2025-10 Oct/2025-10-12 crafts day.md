@@ -1,6 +1,9 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - Qwirkle
+  - baking
+  - pound_cake
 country:
   - Sweden
 location:
