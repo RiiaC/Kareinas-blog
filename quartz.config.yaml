@@ -2,11 +2,11 @@
 configuration:
   pageTitle: Kareinas Blog
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: riiac.github.io/Kareinas-blog
   ignorePatterns:
     - private
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Fraunces
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -110,11 +110,6 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: default
-      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -230,8 +225,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Kareina on Dreamwidth: https://kareina.dreamwidth.org/
+        Quartz GitHub: https://github.com/jackyzha0/quartz
+        Quartz Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50
@@ -254,10 +250,37 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
+        - country
+        - location
+        - high_temp(°C)
+        - low_temp(°C)
+        - weight(kg)
+        - training
+        - projects
+        - date started
+        - materials used
+        - catagory
+        - completed
+        - ingredients
+        - title
+        - Author
+        - language
+        - Norrskens_Bard_contest_year
+        - form
+        - tune
+        - theme
+        - round
+        - date acquired
+        - cost
+        - fabric name
+        - fiber content
+        - weave
+        - colour
+        - type_of_home
+        - lived_with
+        - my_legal_age
+        - extra_childhood_age
+      excludedProperties: [date created, publish]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -266,6 +289,13 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    options:
+      theme: default
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
