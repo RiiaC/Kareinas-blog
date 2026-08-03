@@ -1,0 +1,10 @@
+- [x] Ladby €50 (Cedric paid 40€)
+- [x] Minobu €70 (gift to Ionis)
+- [x] Egil €75 (spear point) sold at Medeltidsdagar 
+- [x] Blue €150 (A simple knife with a handle of stabilised wood, ebony, pewter, and wale bone, and a feather engraved in the wood. Sheath with a knotwork dragon, with a single blue feather on the tail)
+- [ ] Arnold €150 (kitchen knife)
+- [x] Slagugla €220 (Japanese white paper steel blade) (this plus bluevfor 320 total (50 discout to s parent and child))
+- [x] Benny €220 (Purple mammoth, white bone, and stabilized wood handel, with a pattern moasic pin and decorated with an infinity heart) to Juliette 
+- [ ] Norrsken €250 (batthe axe. Pattern welded cutting edge on a black axe head 323 g)
+- [ ] Gunlüg €600 (pattern welded, accent layer in stainless steel, red ebony, pattern birch, mammoth, Tasmanian blackwood)
+- [ ] arrow points €10 each

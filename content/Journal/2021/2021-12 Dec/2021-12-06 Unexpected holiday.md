@@ -1,0 +1,16 @@
+---
+tags:
+  - folk_dance
+  - heath
+  - moving_house
+Published: true
+---
+I heard from a friend in California today. He's going to plant some garlic this week. Meanwhile, look out my door at the -20 C temps and the layer of snow, and wonder at the fact that friends who are not at all far away (cosmically speaking) have garden planting to do. In contrast, my useful task this morning was emptying the freezers to the front porch and unplugging them. By the time I get home from work they will be dry and ready to plug back in and refill. When we do we can sort it into what food will stayvhere, and what I will take with me when I move.  
+  
+We made good progress last week towards that eventual move. On Tuesday I realised that it was nearly December and that Kjartan had said when he bought my half of the house and I started paying rent that he would happily drop the cost of the rent to half once I had packed and taken away all of my stuff in the public areas of the house and so am occupying only one room. Because we have been taking boxes of stuff to Keldor's dad's house every week when I go down to see him, or he comes here, there wasn't much left besides furniture.  
+  
+So I double checked with David that booking a trailer for Wednesday 1 Dec and taking furniture then would  qualify for paying only half rent in December. He agreed, and I took a vacation day and booked the trailer. Then, Tuesday evening we heard that a friend (fully vaccinayed) who had attended the SCA event with us on the weekend had gotten sick and tested positive for covid. Keldor and I were both symtom free (and fully vaccinated) but we booked covid tests anyway, and asked our work colleagues if we should wait for results before returning to work. (Yes, of couse they wanted us to wait).  
+  
+So I took my test Wednesday morning on the way to pick up the trailer. David was working from home that day so he helped me load the dressers, loom frame, treadle sewing machine, bookcase and rocking chair into the trailer, and I added a bunch more boxes to the car and trailer and drove south. Upon arrival we first re-arranged the basement room to better stack and store my stuff that doesn't care if it gets a bit cold, and then more rearranging in his room and the guest room to make room for the stuff I want in the warm part of the house, abd then we finally unloaded it all, finishing it just 12 hours after picking up the trailer.  
+  
+The next day he came with me to return the trailer, since neither of us could go to work anyway, and we spent much of Thursday and Friday as rest days, sleeping 10 hours a day (way more than our usual 5 or 6), and taking it generally easy. He got his no-covid result Thursday afternoon, but mine didn't come back till Friday afternoon. By then he'd already cancelled our participation in his company Christmas party, but we had a friend's birthday on Saturday in Skelleftehamn, so we drove south (taking a bit more stuff, of course) I came home early enough on Sunday to attend folk dance (first time I made it in weeks), where we pland our performance for the Luleå Hembygdsgille Julfest next weekend. Looking forward to that party.

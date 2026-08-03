@@ -1,0 +1,7 @@
+---
+Published: true
+---
+We returned the trailer yesterday, got all of my food from the pantry, the stuff that didn't fit in the trailer the night before, and one ice chest worth of freezer stuff. We also stopped at a hardware store to get a couple of things, spent a half an hour sledding on David's hill (I am going to miss living with that in my front yard!), gave David my keys to his house, and picked up the keys to Louise's apartment (where I will be staying the nights I will be working in Luleå, since it is too far to commute).  
+  
+That, plus driving to the new house took nearly 10 hours (empty trailer up, plus snow on the return meant slower driving than normal), but we still had energy to get the fridge and freezer food put away, the pantry food into the kitchen awaiting shelves, and get the bathroom sink mostly put back together (the previous owner had taken it out, presumably to fix something, but then died before finishing the job) before calling it a night, driving the half hour back to Keldor's dad's house, doing yoga, taking a sauna, and sleeping 8 hours.    
+I will get my stuff in the spice cupboard (which I forgot), and the rest of the freezer stuff (which we left on purpose til after we get Keldor's extra freezer to the new house) next week when I head north for a couple day's work.
