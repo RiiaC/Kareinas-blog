@@ -33,7 +33,10 @@ Tristyn armoured up for the first time, and took to it like a fish to water, and
 ![[2026-08-02 Tristyn armoured 5.jpg|500]]
 ![[2026-08-02 Tristyn armoured 6.jpg|500]]
 # a gift made
-After we came back in, and they both had a shower, Keldor suggested that since it is rare to find someone with a small enough head to fit i to my old [[Bacinet helmet]], we should give it to Tristyn. Having seen his joy at fighting, and knowing that his budget is limited, we did, and after Lexie checked to be certain that it could count as his "personal item" when goung through airport security, he accepted.
+After we came back in, and they both had a shower, Keldor suggested that since it is rare to find someone with a small enough head to fit i to my old [[Bacinet helmet]], we should give it to Tristyn. Having seen his joy at fighting, and knowing that his budget is limited, we did, and after Lexie checked to be certain that it could count as his "personal item" when going through airport security, he accepted.
+# a popular visitor
+While Tristan showered after fighting, Lexie took the opportunity to become the most popular person in the house
+![[2026-08-02 cat treats.jpg|500]]
 
 
 

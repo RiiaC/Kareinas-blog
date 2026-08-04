@@ -20,6 +20,10 @@ I woke up with lots of energy, despite having stayed up too late talking SCA, fi
 
 Then I went home, worked only 40 minutes before needing a nap, woke, tried to work, realised I didn't feel good, took a sick day, and then napped away much of the rest of the day (getting up only to move laundry from the machine to the line and back to the house again). I was asleep when Keldor got home, so he made progress on the door for the downstairs loo, which I got to see when I finally got up again to do my yoga just before 20:00
 
+![[2026-08-03 door.jpg|500]]
+
+I like how it is coming along, especially the cute lite [Ladby ship ](https://www.vikingeskibsmuseet.dk/en/professions/education/the-longships/findings-of-longships-from-the-viking-age/ladby) style dragon on the middle horizontal board. Those cute little curls really do make it look like the [happiest dragon ship, ever](https://thoughtfuldane.com/2025/07/15/a-buried-viking-ship/).
+
 After yoga I took a hot shower, and tried to go to sleep again. Didn't manage to sleep that time, so I got up and tried again to make Quartz Syncer work, by starting over with cloning the Quartz version 5 repository from the beginning. This took lots of fighting and trouble shooting, but finally, hours later the blog was once again published, though I still had issues with making quartz syncer work. Did lots of troubleshooting with CoPilot.
 - Eventually gave up, posted a new comment to: https://github.com/saberzero1/quartz-syncer/issues/134, and then posted to https://discord.com/channels/927628110009098281/1529105035420762212 wondering if anyone there can help. Then asked CoPilot for a summary of what I did today, and got this:
 	- Recreated the **Kareinas-blog Quartz v5 repository**.
