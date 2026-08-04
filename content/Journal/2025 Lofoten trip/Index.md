@@ -1,4 +1,5 @@
 ---
+title: Lofoten trip, 2025
 Published: true
 ---
 # 2025 The Lofoten Trip

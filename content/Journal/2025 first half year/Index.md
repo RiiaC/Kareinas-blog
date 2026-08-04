@@ -1,4 +1,5 @@
 ---
+title: 2025 The First Half of the Year
 Published: true
 ---
 # 2025 The First Half of the Year
