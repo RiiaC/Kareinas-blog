@@ -21,6 +21,7 @@ training:
 projects:
   - "[[Create extra bathrooms]]"
 tags:
+Published: true
 ---
 # Morning packing, projects, and garage sale
 I got up at around 07:00, and started a little packing/car loading. 

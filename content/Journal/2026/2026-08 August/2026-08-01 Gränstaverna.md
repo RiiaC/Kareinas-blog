@@ -21,6 +21,7 @@ dances_done:
   - "[[Black Nag]]"
   - "[[Pitete virens]]"
   - "[[Washerwoman's bransle]]"
+Published: true
 ---
 Woke at 08:30 Finish time, but stayed in bed, updating yesterday's log for more than an hour before going off in search of breakfast. 
 

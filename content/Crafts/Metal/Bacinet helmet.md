@@ -10,6 +10,7 @@ materials used:
   - Steel
 status: Given away
 given to: Tristyn
+Published: true
 ---
 # pattern
 This pattern developed by Sir Paul of Somerton in the early 1990's (or perhaps late 1980')

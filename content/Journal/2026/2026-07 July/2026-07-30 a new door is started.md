@@ -14,6 +14,7 @@ training:
 projects:
   - "[[Create extra bathrooms]]"
 tags:
+Published: true
 ---
 As Keldor took today as a sick day, and we were up way too late talking to Tristyn, I slept in, and then ordered new toothpaste before getting out of bed. (I prefer toothpaste that doesn't contain silica, and like those with tee tree oil, which means not available in normal grocery stores, so must be ordered, and mine has been almost empty for a while.) 
 

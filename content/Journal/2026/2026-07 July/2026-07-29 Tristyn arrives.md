@@ -13,6 +13,7 @@ training:
   - Yoga
 projects:
 tags:
+Published: true
 ---
 I had a skow start tomy work day, then met with Bruno to discuss what else needs be done before we ingest the Struke data, and he showed me his [Visual Studio Code](https://code.visualstudio.com/) set up he uses to compare the Strucke input data with SEAD. My that is fast! It turns out that 42 of the more than 6000 sites we have a *lämningnummer* for are already in SEAD, and more than 100 of those we have an *RAÄ nummer* for. These will need to be assigned to the `site id` that is already in SEAD, the others will need new `site_id` numbers. I could have done this check myself by downloading the joined lists of  *lämningnummer* and *RAÄ nummer* from SEAD, but this is much faster.
 

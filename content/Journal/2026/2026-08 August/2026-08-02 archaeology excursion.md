@@ -14,6 +14,7 @@ training:
 projects:
   - "[[Nålbinded Dragon]]"
 tags:
+Published: true
 ---
 # morning
 Got up, packed our stuff, helped with cleaning the site, and eventually followed Joni to the local bronze age burial mounds

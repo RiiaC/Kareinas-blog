@@ -14,6 +14,7 @@ training:
 projects:
   - "[[Create extra bathrooms]]"
 tags:
+Published: true
 ---
 I woke up with lots of energy, despite having stayed up too late talking SCA, fighting, knighthood, etc., with Tristyn and Lexie, and walked/ran with them to the bus stop so they could catch the 06:20 to Umeå.
 

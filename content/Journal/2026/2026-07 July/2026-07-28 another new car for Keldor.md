@@ -13,6 +13,7 @@ training:
   - Yoga
 projects:
 tags:
+Published: true
 ---
 Had problems focusing for work, so when Keldor heard back from a guy selling a new car, I agreed to take a break and go with him.
 

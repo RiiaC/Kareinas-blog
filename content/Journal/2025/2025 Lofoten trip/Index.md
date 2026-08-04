@@ -1,5 +1,5 @@
 ---
-title: Lofoten trip, 2025
+title: 2025 Lofoten trip
 Published: true
 ---
 # 2025 The Lofoten Trip

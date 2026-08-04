@@ -1,5 +1,5 @@
 ---
-title: 2025 Second half of the year
+title: 2025 second half of the year
 Published: true
 ---
 # 2025 Second half of the year
