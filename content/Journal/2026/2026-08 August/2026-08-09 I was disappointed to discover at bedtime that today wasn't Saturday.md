@@ -11,6 +11,7 @@ low_temp(°C):
 weight(kg):
 training:
   - Yoga
+  - Acroyoga
 projects:
 tags:
 Published: true
