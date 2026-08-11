@@ -6,6 +6,8 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Furuögrund
+  - Skellefteå
 high_temp(°C):
 low_temp(°C):
 weight(kg):
@@ -16,7 +18,7 @@ projects:
 tags:
 Published: true
 ---
-I  woke up thinking of sprang, and, wondering if it could be used to make five  toed socks, by starting with just enough threads to go around a big toe, and setting them up with an interlinked beginning to make possible working the stitches to make a tiny tube. Then, after worki,g the top of that toe, start a similar for the next, and so on, merging them at the base when the toes are long enough. I have a clear mental image, that I can't describe in words. I have no idea if anyone does anything like this to perhaps make gloves or mittens. But since the thought came, I am writing it down (and shared it with Carol, too).
+I  woke up thinking of sprang, and, wondering if it could be used to make five  toed socks, by starting with just enough threads to go around a big toe, and setting them up with an interlinked beginning to make possible working the stitches to make a tiny tube. Then, after working the top of that toe, start a similar for the next, and so on, merging them at the base when the toes are long enough. I have a clear mental image, that I can't describe in words. I have no idea if anyone does anything like this to perhaps make gloves or mittens. But since the thought came, I am writing it down (and shared it with Carol, too).
 
 I think I will dig my [[Sprang test piece|sprang belt test piece]] out of the UFO pile, and try putting it on a bent branch frame like Carol shows in her [video on frames](https://youtu.be/UeY895A-Iuw)
 

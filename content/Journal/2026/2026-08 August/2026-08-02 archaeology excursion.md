@@ -4,7 +4,12 @@ photos_pubished:
 image:
 country:
   - Sweden
+  - Finland
 location:
+  - Alatorino
+  - Kemi
+  - Kallix
+  - Skellefteå
   - Lövånger
 high_temp(°C):
 low_temp(°C):

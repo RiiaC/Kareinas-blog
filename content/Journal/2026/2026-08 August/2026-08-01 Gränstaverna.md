@@ -3,7 +3,7 @@ also_on_Dreamwidth: Not yet
 photos_pubished:
 image:
 country:
-  - Sweden
+  - Finland
 location:
   - Alatorino
 high_temp(°C):

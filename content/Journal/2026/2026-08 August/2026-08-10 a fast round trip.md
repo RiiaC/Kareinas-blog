@@ -6,6 +6,7 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
 high_temp(°C):
 low_temp(°C):
 weight(kg):
