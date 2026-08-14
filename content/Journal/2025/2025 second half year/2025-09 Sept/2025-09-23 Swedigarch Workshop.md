@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Stockholm
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
   - Walk
   - Pilates
+tags:
 Published: true
 ---
 I slept 7.5 hours and woke before Keldor was showing as online, so I thought I had time for a 25 minutes workout before he was up. Nope, about 12 minutes in to the session he called, so I paused, enjoyed his company for about 40 minutes, and then finished with an hour and a half to spare before tome to meet P. & R. for breakfast which is enough to both repack the backpack with just what is needed for today's workshop and take a nap. Except, I didn't fall asleep, so I ordered a replacement tea tree oil toothpaste, which should reach my home around the same time I do.
