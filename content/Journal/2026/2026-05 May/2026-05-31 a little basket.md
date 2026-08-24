@@ -29,6 +29,20 @@ So everyone on site pitched in on taking down all the cosy camp social places an
 # Helgas helm
 Then a bunch of us gathered in the barn and talked for hours. The group was mostly fighters, so there was a lot of fighting talk. At one point Helga mentioned not using a helmet chin cup, and I said "wait, what!?". So Helga fetched the helm, and showed how it works, with the disclaimer that this is **not** something based on period examples, but is 100% a modern sport adaptation. 
 The secret is hinges on each side of the face plate along the temple line that open like wings. Those faceplate pieces curve to form fit to the chin, with just enough room for padding, and lock over the gorget, so that it can't come off when the pin is in place
-- [ ] add the photos Keldor took 
+
+![[2026-05-31 Helgas helm 1.jpg|500]]
+
+![[2026-05-31 Helgas helm 2.jpg|500]]
+
+![[2026-05-31 Helgas helm 3.jpg|500]]
+
+![[2026-05-31 Helgas helm 4.jpg|500]]
+
+![[2026-05-31 Helgas helm 5.jpg|500]]
+
+![[2026-05-31 Helgas helm 6.jpg|500]]
+
+![[2026-05-31 Helgas helm 7.jpg|500]]
+
 
 Previous post: [[2026-05-30 market day]]
