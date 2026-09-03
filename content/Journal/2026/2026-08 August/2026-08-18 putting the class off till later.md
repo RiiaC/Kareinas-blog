@@ -30,4 +30,4 @@ I mean, this is fine for special occasions like SCA events that go on the calend
 Yet Keldor very much wants to know if advance when I will be unavailable to spend time with him, so he can plan to fill that time with something else he enjoys doing. On paper, this sounds like a reasonable request. Why then does it feel like a burden?
 
 
-Previous post: [[2026-08-16 more fabric aquired]]
+Previous post: [[2026-08-16 more fabric acquired]]

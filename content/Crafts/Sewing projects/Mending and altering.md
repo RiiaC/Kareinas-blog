@@ -5,6 +5,8 @@ Published: true
 A list of mending projects that aren't getting their own notes.
 - [ ] add an entry for the reengarda banners pole channel done in Ireland, and the one done on the ride to Double Wars
 - [ ] is there an entry for our silk banners, which got their channels the week before Double Wars?
+# [[2026-08-25 val utbildingen|2026-08-25]] purple t-shirt alteration
+- I had bought a long purple t-shirt on [[2026-08-22 the shopping gods decided I needed clothes|Saturday]], which fit well, save for two flaws--the super short sleeves were enough to hinder raising my arms overhead, and the scoop neckline was lower than I wanted. So I cut off the sleeves and used the fabric to do an overlapped neckline extension, and the result is much more comfortable. Didn't take mre than an hour or so to accomplish.
 # [[2026-07-18 loppisrunda|2026-07-18]]
 Replaced the phone pocket on my rainbow phone belt, making a much better extra pocket for my passport this time.
 # [[2026-06-21 the neighbour's garage sale|2026-06-21]] blue t-shirt 

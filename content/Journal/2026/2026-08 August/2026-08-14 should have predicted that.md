@@ -21,6 +21,10 @@ When I woke from my nap I had a photo of Keldor’s progress on his [[Train bbq]
 
 ![[2026-08-14 train bbq.png|500]]
 
+This made me smile. 
+
+![[2026-08-14 BeReal_jag.jpeg|500]]
+
 When Keldor got home he brought in something unusual,  two snail mail letters. (The first that have appeared in the mailbox in months.)
 
 One was a letter from the city, letting us know when the chimney sweep will be coming later this month.
@@ -35,6 +39,8 @@ After sharing the photo of today's bil with the Seneschal, he shared with me an 
 
 I am not pleased.
 
-But after a but of a cry, a rant to the officer's chat, mixing up a new batch of museli, and a yoga session,  I am doing better.
+But after a but of a cry, a rant to the officer's chat, mixing up a new batch of museli, and a yoga session,  I am doing better. 
+
+
 
 Previous post: [[2026-08-13 a nice compliment for him]]

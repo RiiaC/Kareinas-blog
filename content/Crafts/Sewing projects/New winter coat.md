@@ -2,11 +2,12 @@
 Published: true
 ---
 My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, it might be worth replacing the whole coat, instead of repairing it.
-# [[2026-08-16 more fabric aquired]] 
+# progress log
+## [[2026-08-16 more fabric acquired]] 
 Decided that the [[Maroon silk curtains]] would make a beautiful lining, and less weight than the [[Striped suit-weight wool]]. I suspect that in a couple of years, when the lining needs replacing, I will regret this, but in the short term I think I will like it. Got most of the pieces cut out. Basted the wool pieces to the silk, and then cut. Unlike my [[2025-09-20 silk bliaut short tunic.jpg]], this one will be consistent as to which side is out.
 
 I will need to cut the sleeve lining later, but that can wair till after I modify the sleeves bycuttimg odd a triangle from the cuff ends of the aleeve and moving it to the shoulder emd.
-# [[2026-08-15 black currants and inspiration to start a project]] checked to see if I have enough fabric 
+## [[2026-08-15 black currants and inspiration to start a project]] checked to see if I have enough fabric 
 Using the long piece of [[Narrow heavy black wool]] 
 
 Measure and mark from one end:

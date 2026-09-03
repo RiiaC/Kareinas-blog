@@ -13,6 +13,7 @@ training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 tags:
 Published: true
 ---
