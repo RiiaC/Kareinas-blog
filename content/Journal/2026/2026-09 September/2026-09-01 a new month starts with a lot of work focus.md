@@ -21,6 +21,6 @@ Having gone to bed super early, I woke early enough to get a shower before his a
 
 The meeting for which I went in was scheduled for 13:00 - 15:00, which meant that I didn't get home till 17:00, which meant I put in 10 h 40 minutes work today. Especially as I worked right up to seconds before we turned the corner into Lövånger. 
 
-Keldor tells me that he has installed the thermometers on his 
+Keldor tells me that he has installed the thermometers on his [[Train bbq]], and it is just about ready to come home.
 
-Previ thaous post: [[2026-08-31 a short day]]
+Previous post: [[2026-08-31 a short day]]

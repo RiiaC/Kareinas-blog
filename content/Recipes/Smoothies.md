@@ -12,7 +12,7 @@ I tend to mix up a big batch of frozen fruit and  fresh vegetable smoothies ever
 Run fresh vegetables (usually spinach, avocado, and cuucumber) through the Food processor till a happy green liquidy mush. Set it asside in a large metal bowl, and one frozen berry at a time, chop them in the food processor and add the chopped fruit to the bowl with the veg.
 After everything has gone through the food processor once, stir it all together and then, a couple of cups at a time, run it through the food processor again till it is aall smooth in texture.
 Then scoop it into silicon muffin cups and freeze.
-# [[2026-09-02|2026-09-02]] batch Ingredients 
+# [[2026-09-02 nettle seeds|2026-09-02]] batch Ingredients 
 - 1 bag spinach
 - 1 cucumber
 - 1 avocado 

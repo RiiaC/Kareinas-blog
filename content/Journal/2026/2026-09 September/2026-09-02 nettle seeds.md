@@ -16,7 +16,7 @@ projects: "[[Train bbq]]"
 tags:
 Published: true
 ---
-Woke before the alarm, thinking of work, and realising that the catagories I need for the two types of data are terms that wind up in lookup tables, and can be reused in multiple datasets  and the data itself (analysis values etc.), and I wondered if there are formal terms for these. But when I picked up my phone there was a conversation happening in my sisters' chat, and I joined that instead  of looking for them.
+Woke before the alarm, thinking of work, and realising that the categories I need for the two types of data are terms that wind up in lookup tables, and can be reused in multiple datasets  and the data itself (analysis values etc.), and I wondered if there are formal terms for these. But when I picked up my phone there was a conversation happening in my sisters' chat, and I joined that instead  of looking for them.
 
 I had a good day at work, with a productive working meeting (and we scheduled four more between now and our intern's last day on the 11th), and managed to get the 12:30 bus home.
 
@@ -33,4 +33,4 @@ After yoga, and as I got ready for bed, I noticed that, even though my weight is
 So I logged into the national health care system and sent a note to the local health center about this. Perhaps it is nothing, or perhaps it is something. Who knows? Not me.
 
 
-Previous post: [[2026-09-01]]
+Previous post: [[2026-09-01 a new month starts with a lot of work focus]]

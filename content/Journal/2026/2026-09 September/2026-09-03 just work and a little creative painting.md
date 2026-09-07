@@ -26,4 +26,4 @@ I turned the two boxes of peaches that Charlotte bought yesterday thinking they 
 
 Then I did the first two coats of paint on a [[Pair of painted boxes]] before doing yoga.
 
-Previous post: [[2026-09-02]]
+Previous post: [[2026-09-02 nettle seeds]]
