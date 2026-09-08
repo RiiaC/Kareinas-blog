@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
+photos_pubished: No
+image:
 country:
   - Sweden
 location:
   - Brattby
-image:
-photos_pubished: No
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
   - SCA_Dance
+tags:
 Published: true
 ---
 

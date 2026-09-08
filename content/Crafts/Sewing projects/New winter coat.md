@@ -3,6 +3,35 @@ Published: true
 ---
 My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, it might be worth replacing the whole coat, instead of repairing it.
 # progress log
+## to do
+- [x] cut the black wool pieces
+- [x] baste them to the lining and stitch labels as to which piece is which
+- [x] cut the lining a little bigger than the wool
+- [x] assemble the three triangles that make the back gore
+- [x] insert the back gore into the back body rectangle
+- [x] attach the extra front gores to the open side of the front body rectangles and finish the edges of the opening (leave the part above the gore undone, a collar piece will go there) (done this far [[2026-09-08 doing my homework|2026-09-08]])
+- [ ] sew the side gores to the side rectangles
+- [ ] sew the fronts to the back at the shoulders
+- [ ] sew the arms to the body
+- [ ] sew the side rectangles + gores to the body
+- [ ] design and cut the collar
+- [ ] attach the collar
+- [ ] design and cut the pockets
+- [ ] attach the pockets
+## the days I worked on it
+- [[2026-09-08 doing my homework]] now both front pieces have their gore on the side that opens, and that side and the hems have been finished with osenstitch (as has the seams themselves). It has been some days since I finished putting the set of three gores into the central back slit.
+- [[2026-09-03 just work and a little creative painting]]
+- [[2026-09-01 a new month starts with a lot of work focus]]
+- [[2026-08-30 today's runestones]]
+- [[2026-08-29 Holmrike Archery event]]
+- [[2026-08-28 roadtrip]]
+- [[2026-08-26 tillsvidare]]
+- [[2026-08-25 val utbildingen]]
+- [[2026-08-24 more design work]]
+- [[2026-08-22 the shopping gods decided I needed clothes]]
+- [[2026-08-21 luckily, there are local black currants]]
+- [[2026-08-20 a work adventure]]
+- [[2026-08-18 putting the class off till later]]
 ## [[2026-08-16 more fabric acquired]] 
 Decided that the [[Maroon silk curtains]] would make a beautiful lining, and less weight than the [[Striped suit-weight wool]]. I suspect that in a couple of years, when the lining needs replacing, I will regret this, but in the short term I think I will like it. Got most of the pieces cut out. Basted the wool pieces to the silk, and then cut. Unlike my [[2025-09-20 silk bliaut short tunic.jpg]], this one will be consistent as to which side is out.
 

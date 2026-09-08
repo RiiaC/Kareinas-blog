@@ -6,18 +6,20 @@ A list of mending projects that aren't getting their own notes.
 - [ ] add an entry for the reengarda banners pole channel done in Ireland, and the one done on the ride to Double Wars
 - [ ] is there an entry for our silk banners, which got their channels the week before Double Wars?
 # blue-maroon long Merino cardigan 
-On [[2026-08-22 the shopping gods decided I needed clothes]]. Two of the shirts I bought were Merino wool, one navy blue, and the other dark maroon. They are both pull over sweaters, and I prefer cardigans, preferably long. The colours also look amazing together,  so on [[2026-09-07 some Mondays deserve their capital M|2026-08-07]] I decided to cut them up and reassemble the pieces.
-- [x] make a paper pattern of the pieces as they are
-- [x] cut them up and rearrange them to aee if my idea even works. (It does)
+- On [[2026-09-07 some Mondays deserve their capital M|2026-09-07]] I decided to start the project, and cut the sleeves off and started sewing 
+- On [[2026-08-22 the shopping gods decided I needed clothes]]. Two of the shirts I bought were Merino wool, one navy blue, and the other dark maroon. They are both pull over sweaters, and I prefer cardigans, preferably long. The colours also look amazing together
+- 
+- [x] make a paper pattern of the pieces as they are   [[2026-08-22 the shopping gods decided I needed clothes|2026-08-22]].
+- [x] cut them up and rearrange them to see if my idea even works. (It does)
 - [x] cut off both sleeves from both shirts 
-- [x] cut off the cuffs and set them asside
+- [x] cut off the cuffs and set them aside
 - [x] open up the seams
-- [x] find an appropriate thread to aew it with (a brown weaving wool yhick enough to do a good osen stitch, but thin enough to glide easily )
-- [ ] sew one red sleeve to one blue sleeve, lining up what had been the cuffs to make the new shoulder to make a big angel wing sort of sleeve
-- [ ] repeat with the other two sleeves, with the opposite collour in front 
+- [x] find an appropriate thread to sew it with (a brown weaving wool thick enough to do a good osen stitch, but thin enough to glide easily )
+- [x] sew one red sleeve to one blue sleeve, lining up what had been the cuffs to make the new shoulder to make a big angel wing sort of sleeve  [[2026-09-08 doing my homework|2026-09-08]]
+- [ ] repeat with the other two sleeves, with the opposite colour in front 
 - [ ] cut the hems off of both sweaters 
 - [ ] cut off the top left front half of one sweater and the top right half of the other
-- [ ] do the same with the opposite back qudrants
+- [ ] do the same with the opposite back quadrants
 - [ ] us the cuffs to line the front center edges
 - [ ] extend each above mentioned quadrant with chunks cut from the opposite colour pieces.
 - [ ] use the bits that are left to make gores for the skirt part and underarm gores
