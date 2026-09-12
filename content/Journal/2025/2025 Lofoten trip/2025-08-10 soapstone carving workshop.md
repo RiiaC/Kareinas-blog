@@ -1,13 +1,13 @@
 ---
 also_on_Dreamwidth: Yes
+photos_pubished: No
+image: "[[20250810_153015.jpg]]"
+country: Norway
+location: Lofoten
 tags:
   - SGNT
   - soapstone
   - Viking_Museum
-country: Norway
-location: Lofoten
-photos_pubished: No
-image: "[[20250810_153015.jpg]]"
 Published: true
 ---
 Finally lay down to sleep 00:40. Woke at 06:00 and thought that I should get up and take my vitamins for The Swedish Glaucoma Nicotinamide Trial (SGNT) https://sgnt.se/ . I have no idea if I just fell right back to sleep after thinking that, or if I mnaged to go to the loo on autopilot and then fell asleep again, but either way  the next thing I knew it was after 07:00 and I hadn't taken them, so I got up and did that, and went back to sleep till Keldor’s alarm ernt off at 08:20. (Since the vitamins need to be taken with food, and my interest in food hadn'tyet awakend,  I did what I often do, broke off a single bite of a bananaand ate tgat with the vitamins. That is small enough to manage when not hungry.)
