@@ -1,7 +1,7 @@
 ---
 Published: true
 ---
-My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, it might be worth replacing the whole coat, instead of repairing it.
+My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, I decoded that it is worth replacing the whole coat, instead of repairing it.
 # progress log
 ## to do
 - [x] cut the black wool pieces

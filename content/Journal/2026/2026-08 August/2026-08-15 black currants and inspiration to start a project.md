@@ -28,7 +28,7 @@ An hour and a half later I returned to the workshop with black and currants (the
 
 They had finished turning the paper pattern Cinder had made last night of the Frostheim barrel helmet into a more permanant thin plate metal pattern,  and she was busy tracing that onto the actual steel for the helmet. Keldor was bust adding the vstiois grtll racks to the smoker part of his [[Train bbq]] in progress.
 
-I was hungry, so I ate my salad and some cheese, and glanced at messages. Saw the Seneschal's call for letters of intent for autumn Crown,  with a link to the web form. So I did that paperwork for both of us, pointing out that we are still building  [[My new helmet]], so if we get it done before October, I am fighting. But since I gave away my [[Bacinet helmet]], finishing the ne one is a prerequisite. 
+I was hungry, so I ate my salad and some cheese, and glanced at messages. Saw the Seneschal's call for letters of intent for autumn Crown,  with a link to the web form. So I did that paperwork for both of us, pointing out that we are still building  [[My new helmet and gorget]], so if we get it done before October, I am fighting. But since I gave away my [[Bacinet helmet]], finishing the ne one is a prerequisite. 
 
 However, we hadn't brought that helmet with us today, so I couldn't do any work on that, Keldor was welding (so I couldn't help there), and Cinder was busy cutting out the steel for her helm (also a one person job, there being just the one big cutting machine). So I washed Keldor’s car, used the wire brush on the rust (over the back tires), and sprayed them with zinc, so hopefully they won't get worse.
 

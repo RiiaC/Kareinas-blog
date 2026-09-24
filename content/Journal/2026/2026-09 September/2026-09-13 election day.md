@@ -74,7 +74,7 @@ Once the votes are sorted by piles they are counted, at least twice each pile, a
 
 Then repeat for the next box, and the one after that.
 # our results 
-I, of course, put the totals in a spreadsheet, and compared them with the published prelimar results for the national elections as of 16:00 on Monday:
+I, of course, put the totals in a spreadsheet, and compared them with the published prelimary results for the national elections as of 16:00 on Monday:
 
 | Party                        | Lövånger |            | national as of 16:15 the next day |            |
 | ---------------------------- | -------- | ---------- | --------------------------------- | ---------- |
@@ -93,7 +93,7 @@ I, of course, put the totals in a spreadsheet, and compared them with the publis
 | Sverigedemokraterna          | 168      | 13.50%     | 1117694                           | 17.54%     |
 | **sub total for the right**  | **462**  | **37.14%** | **3120374**                       | **48.96%** |
 
-So, had the whole country voted as we did, there would be a clear majority  instead of waiting for final counts and negotiations. 
+So, had the whole country voted as we did, there would be a clear majority  instead of waiting for final counts and negotiations. Edited to add a link to the published results for Lövånger, that I found four days later: https://valresultat.svt.se/2026/kommunval-24821001-lovanger.html
 # winding down after
 I got home just after 02:00, and took some time to empty the cat litter, put spackel in the low spots on the bathroom window ledge, pet the cats, do yoga, and just relax reading facebook, before heading to bed just after 03:00.
 

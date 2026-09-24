@@ -34,7 +34,7 @@ Then a plain black t-shirt leapt into the growing collection in my arms, and it 
 
 Total dammages for the day: 773 kr for two t-shirts, two long sleeved Merino wool sweaters, one dress shirt, one cotton hoddie jacket, and one linen suit jacket. Most of these items would have cost more that that new. 
 # an attempt at fixing my helm
-After shopping we went to the workshop, where Kalle made progress on his armour, Gilbert worked on something,  Bryan relaxed, and Keldor and I looked at  [[My new helmet]] in progress.
+After shopping we went to the workshop, where Kalle made progress on his armour, Gilbert worked on something,  Bryan relaxed, and Keldor and I looked at  [[My new helmet and gorget]] in progress.
 
 As Keldor had put a lot of time into making the decorative grill on that helmet when he made it a couple of years ago, we wanted to see if we could re-use that bit for the modified version inspired by Helga's sports helm.
 

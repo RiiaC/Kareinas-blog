@@ -13,12 +13,12 @@ training:
   - Yoga
 projects:
   - "[[New winter coat]]"
-  - "[[My new helmet]]"
+  - "[[My new helmet and gorget]]"
 tags:
 Published: true
 ---
 
-A work from home day, wherein I was productive at first, then let myself take a break to do the computerised version of the design for the face grill for [[My new helmet]], with cat nose, mouth, whiskers and eyes, plus heart and infinity symbol, just because:
+A work from home day, wherein I was productive at first, then let myself take a break to do the computerised version of the design for the face grill for [[My new helmet and gorget]], with cat nose, mouth, whiskers and eyes, plus heart and infinity symbol, just because:
 
 ![[2026-08-24 draft of helm grill.png|500]]
 
