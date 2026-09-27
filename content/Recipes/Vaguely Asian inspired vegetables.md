@@ -1,3 +1,6 @@
+---
+Published: true
+---
 On [[2026-09-04 a quiet day for me|2026-09-04]] I cooked some vaguely Asien inspired vegetables for lunch, and Charlotte liked it so much she asked for the recipe, so I wrote down what I did.
 
 - one bag kale

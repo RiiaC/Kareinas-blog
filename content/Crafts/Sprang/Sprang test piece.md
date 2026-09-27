@@ -1,3 +1,6 @@
+---
+Published: true
+---
 > [! Info] started in 2017 or, earlier, worked at events, and then set aside, etc.
 
 # progress log, Sprang, belt width test piece in hand-dyed wool yarn from Finland

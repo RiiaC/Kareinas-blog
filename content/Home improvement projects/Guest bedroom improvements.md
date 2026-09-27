@@ -1,3 +1,6 @@
+---
+Published: true
+---
 # bed curtains 
 ## [[2026-09-17 still made time for working on the house|2026-09-17]] 
 We started handing bed curtains around the guest bed in the cellar.  Got the bottom bunk covered.  Hemming the cut edges can be done later.

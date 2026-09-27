@@ -1,3 +1,6 @@
+---
+Published: true
+---
 # Changing my new helmet to work without a chin-cup
 ## gorget [[2026-09-16 a sad day for Lövånger|2029-09-16]]
 Keldor had a little extra time at work, so he cut the pieces for my gorget from 1.5 mm thick stainless steel. After rhis is done and fitting properly, we can start working on the pieces for the faceplate, which will need to overlock the gorget.

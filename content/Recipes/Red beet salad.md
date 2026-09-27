@@ -1,3 +1,6 @@
+---
+Published: true
+---
 # ingredients 
 - 1 package pre-cooked red beets (~ 3 cups)
 - 2 bags fresh spinach (~ 2 cups)
