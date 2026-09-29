@@ -6,9 +6,11 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Skelleftehamn
+  - Skellefteå
 high_temp(°C):
 low_temp(°C):
-weight(kg):
+weight(kg): 54.7
 training:
   - Yoga
   - Pilates
