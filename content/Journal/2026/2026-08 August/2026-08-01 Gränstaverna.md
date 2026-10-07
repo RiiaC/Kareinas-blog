@@ -38,7 +38,7 @@ I remembered to get photos of Tristyn and Lexie:
 
 ![[2026-08-01 Tristyn & Lexie.jpg|500]]
 
-and a couple of Tristyn
+and a couple of [[]]and a couple of Tristyn
 
 ![[2026-08-01 Tirstyn 2.jpg|500]]
 
