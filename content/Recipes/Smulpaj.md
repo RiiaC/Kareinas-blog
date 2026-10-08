@@ -4,6 +4,9 @@ Published: true
 Or, as we say in English, crumble. I rarely make these the same way twice, and tend to just toss whatever sounds good in a bowl, without looking at a recipe first, but I keep coming back to them as they are yummy. Once in a while I write down what I put in them, and these will be recorded here.
 
 Sometimes I use no sugar or honey at all, others, I add a little, but way, way less than most recipes call for.
+
+# blåbärssmulpaj from Höstdansen leftovers
+[[2026-10-05 Monday]] I separated the juice (about 1 c) from the bag of thawed black currants I brought home from the event this weekend, and put the currants into the dehydrator. Then I took the bag of thawed blueberries (about 4 cups, including juice), and added the black currant juice. There being so much liquid from both berries, I added 2 tablespoons rice flour to the liquid. I also added 1/4 c sugar to the berries, as these berries were unusually bland.  I made the topping from the last of the rolled oats we had in the house (perhaps 1.5 cups), some butter (a quarter cup or so?), and a spoon ful of honey. It turned out very nice. Once cool the paj holds together very well, but there is still a rich dark purple sauce. 
 # An apple-rhubarb-walnut-cimmamon smulpaj for [[2026-06-15 Keldor's birthday week, day 1]]
 ## Filling
 - 3 apples
