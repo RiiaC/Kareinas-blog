@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-10-07 moon.jpg]]"
 country:
   - Sweden
 location:
@@ -19,11 +19,15 @@ projects:
 tags:
 Published: true
 ---
-I managed to get to bed before midnight, which, given the bus didn't get to Lövånger till 23:09, and it was a 13 minute walk home, and I took time to take a shower before bed to help keep my muscles from hurting after daning, feels like a good accomplishment.
+I managed to get to bed before midnight last night, which, given the bus didn't get to Lövånger till 23:09, and it was a 13 minute walk home, and I took time to take a shower before bed to help keep my muscles from hurting after dacning, feels like a good accomplishment.
 
-This morning I got everything ready to catch my usual 06:20 bus, but decided that my hips would appreciate a little pilates before getting on the bus, so after our morning phone call I did a 25 minute session and then took the 07:00 instead. My meeting isn't till 10:00, so it should be fine to arrive 08:40 instead of 08:00.
+This make it possible to get up with Keldor and go out with him to say goodbye when he left (as we do daily). My reward this time was a nice view of the moon and planets over the house:
 
-hours later...
+![[2026-10-07 moon.jpg|500]]
+
+I then got everything ready to catch my usual 06:20 bus, but decided that my hips would appreciate a little pilates before getting on the bus, so after our morning phone call I did a 25 minute session and then took the 07:00 instead. My meeting isn't till 10:00, so it should be fine to arrive 08:40 instead of 08:00.
+
+Typing more, hours later...
 
 As it turned out, it was fine to catch that bus, and I had no problems doing the pilates and getting to the bus stop on time. However... 
 

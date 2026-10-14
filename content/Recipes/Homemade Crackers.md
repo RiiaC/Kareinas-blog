@@ -38,3 +38,26 @@ Plus 30 more g butter, melted and more of the spices to brush on top on top
 
 For these I rolled them out by hand, and then used the lumpy wooden rolling pin to give it texture
 ![[2026-07-30 ostkex.jpg|500]]
+
+# pumpkin crackers
+Recipe invented [[2026-10-08 ferry to Finland|2026-10-08]]
+- 3.5 c flour
+- 1 t baking powder
+- 25 g butter
+- 0.25 c grated cheese
+- 0.25 c roasted pumpkin
+- 1 t mushroom powder 
+- 1 t dried nettle powder
+- 0.5 t nettle seeds
+- garlic powder 
+- pepper
+- Aromat salt blend
+- 1 T yoghurt
+- water
+Blend the butter, pumpkin, herbs, seeds, mushroom powder, and spices till well mixed and there are no remaining large bits of anthing.
+
+Blend the yoghert in a little water and stir it in to the dry ingredients, adding a little water at a time till it is a soft dough. 
+
+Roll it out thin (level 4 on my pasta machine), use the spiked rolling tool to prick holes in the dough, brush with butter, and use the rolling pasta cutter to cut squares.
+
+Bake at 200 C till golden. Cool on a wire rack.

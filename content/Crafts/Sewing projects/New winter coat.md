@@ -4,21 +4,39 @@ Published: true
 My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, I decoded that it is worth replacing the whole coat, instead of repairing it.
 # progress log
 ## to do
+
 - [x] cut the black wool pieces
 - [x] baste them to the lining and stitch labels as to which piece is which
 - [x] cut the lining a little bigger than the wool
 - [x] assemble the three triangles that make the back gore
 - [x] insert the back gore into the back body rectangle
 - [x] attach the extra front gores to the open side of the front body rectangles and finish the edges of the opening (leave the part above the gore undone, a collar piece will go there) (done this far [[2026-09-08 doing my homework|2026-09-08]])
-- [ ] sew the side gores to the side rectangles
-- [ ] sew the fronts to the back at the shoulders
-- [ ] sew the arms to the body
-- [ ] sew the side rectangles + gores to the body
+- [x] sew the side gores to the side rectangles
+- [x] start sewing the reflex trim to the hem
+- [x] sew the fronts to the back at the shoulders,  but off set them to have the outer edge of the front piece line up with the point of my actual shoulder 
+- [x] sew the side rectangles + gores to the body to the top of the gores
+- [x] mark the curve of the back shoulders showing which part of the back body rectangle isn't needed for a good fit
+- [x] mark the curve of the front shoulders 
+- [x] baste the chack line, so its location doesn't get worn away when folded (done [[2026-10-11 adventures on the way home]]
+- [ ] double check that curve, if happy, trim the fabric to match
+- [ ] cut the mirror image for the other shoulder
+- [ ] sew the arms to the body, gathering them to fot the shoulders 
 - [ ] design and cut the collar
 - [ ] attach the collar
+- [ ] deside if the side rectangles also needs tailoring; if so, do it
+- [ ] sew the side rectangles to the body up to the armpit
+- [ ] decide if you can just cut the side gore to a trisngle point as is, or if it will need an extension, and then do it
+- [ ] attach the cuffs to the sleeve
+- [ ] sew the sleeves shut
 - [ ] design and cut the pockets
 - [ ] attach the pockets
+- [ ] make the belt
+- [ ] add belt loops
+- [ ] buy more reflex trim
+- [ ] add more trim
+
 ## the days I worked on it
+- [ ] fill in the others
 - [[2026-09-08 doing my homework]] now both front pieces have their gore on the side that opens, and that side and the hems have been finished with osenstitch (as has the seams themselves). It has been some days since I finished putting the set of three gores into the central back slit.
 - [[2026-09-03 just work and a little creative painting]]
 - [[2026-09-01 a new month starts with a lot of work focus]]
