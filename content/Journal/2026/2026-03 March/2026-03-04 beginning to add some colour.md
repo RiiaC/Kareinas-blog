@@ -16,7 +16,7 @@ projects:
 tags:
 Published: true
 ---
-The city had plowed an impressive wall blocking access to Bryan's driveway and mailbox. Keldor shovelled away some of it yesterday after work, and I did a bit more this morning as he drove to work
+The city had plowed an impressive wall blocking access to Alfr's driveway and mailbox. Keldor shovelled away some of it yesterday after work, and I did a bit more this morning as he drove to work
 ![[2026-03-04 some snow berm gone.jpg|500]]
 
 after work we started painting colour on the banner

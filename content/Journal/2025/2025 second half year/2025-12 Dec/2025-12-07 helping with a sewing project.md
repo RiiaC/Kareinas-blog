@@ -30,7 +30,7 @@ Since there was no point in finishing the neck till I talk to her, I did a 30 mi
 # and more sewing
 After breakfast we finished cutting out Charlotte's dress. 
 # and socializing
-About the time we finished that I got a call from Kerstin, who sold her house to Bryan called, and we arranged for her to drop by at 14:00. Then we had a message from Angelika, would we like the left over Cremé bastard and blueberry compot from Friday? Yes! Yes we would. 
+About the time we finished that I got a call from Kerstin, who sold her house to Alfr called, and we arranged for her to drop by at 14:00. Then we had a message from Angelika, would we like the left over Cremé bastard and blueberry compot from Friday? Yes! Yes we would. 
 
 So while Charlotte sat down and started sewing, we hurried over to Angelika's (I really love her farm!), and since we were there, we looked at the hot tub she had gotten years ago intending to fix us, and, since she never did, she wondered if we want the project instead? Yes, we have been talking of getting a hot tub when we [[Deck, door, ramp, and hot tub|build the deck]].
 

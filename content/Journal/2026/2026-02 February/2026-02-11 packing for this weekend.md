@@ -25,7 +25,7 @@ That wake up was a little disorienting, as I truly had no idea I was asleep till
 
 The fact that my first meeting of the day was fika with my colleagues at the library, who had baked a roll cake filled with strawberries and whipped cream may had helped with motivation for that.
 
-The second meeting of the day was only an hour, when it had been scheduled for two, so I managed to take an early bus home, and made time to shovel a little snow at Bryan's house on the way home (in part to make it look occasionally occupied, in part to make certain the postie can get to the mailbox, and in part because we may need the space for people to sleep there during our event next month, so it is good to keep the path cleared).
+The second meeting of the day was only an hour, when it had been scheduled for two, so I managed to take an early bus home, and made time to shovel a little snow at Alfr's house on the way home (in part to make it look occasionally occupied, in part to make certain the postie can get to the mailbox, and in part because we may need the space for people to sleep there during our event next month, so it is good to keep the path cleared).
 
  I even managed to get a half hour nap after I got home before getting up and doing our shovelling, finishing clearing the parking area just before Keldor got home with the car.
  

@@ -33,4 +33,4 @@ I went to do my yoga, and we noticed that there may be Northern Lights out, so w
 
 Then I took time to type this, and now I really sgould do that yoga and get to sleep, it is getting late.
 
-Previous post: [[2025-11-11 Bryan arrives]]
+Previous post: [[2025-11-11 Alfr arrives]]

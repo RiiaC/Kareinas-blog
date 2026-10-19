@@ -24,7 +24,7 @@ Then it was time to head to the bus stop. She had very little luggage, so Holmfr
 
 We got as far as the second hand store when Keldor pulled up in the car, on the way back from dropping Erin at the bus stop. So we put the luggage in the car, and checked out the shop. I bought a small stainless steel cooking pot with a tight fitting glass lid, in a size I didn't already have, for 55 kr (not much more than 5€).
 
-Then we stopped by Saluhall before Keldor and Charlotte took the car home, and we three walked home, stopping by Bryan's on the way for a tour of the house and to check mail.
+Then we stopped by Saluhall before Keldor and Charlotte took the car home, and we three walked home, stopping by Alfr's on the way for a tour of the house and to check mail.
 
 We ate an early lunch together, then I settled at the computer to work on Reengardas financial stuff after the event, which I did till I was too sleepy to keep my eyes open any longer.
 

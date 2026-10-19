@@ -27,7 +27,7 @@ After breakfast and a game of Qwirkle we resumed work on the [[Create an attic b
 
 Tomorrow we need to go buy more supplies.
 
-This evening we took Daniel's things (that we are storing till we can get them to him in Kiruna) over to Bryan's house to free up space in the craft supplies room to be a second guest room for visitors during the new years party. 
+This evening we took Daniel's things (that we are storing till we can get them to him in Kiruna) over to Alfr's house to free up space in the craft supplies room to be a second guest room for visitors during the new years party. 
 
 Then we watched the first episode of the new Ronja Rövarsdöttar while I worked on my [[2025 purple-blue silk bliaut short tunic]]. Then we joined friends in zoom for our workout session. I am so proud of Þórólfr, who is showing up and doing it, even though it is hard at his current fitness level. Hopefully this will improve that fitness level.
 

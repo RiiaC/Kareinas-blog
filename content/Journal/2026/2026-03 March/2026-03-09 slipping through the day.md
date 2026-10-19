@@ -19,7 +19,7 @@ Published: true
 ---
 took the bus to work, arrived to see that the road and sidewalks were supper slippery. It had rained in the night, and the rain froze as it hit the ground, so the gravel that had previously been spread for traction was now either little balls covered in a couple mm of ice, or completely covered in a sheet of ice. It took me twice as long as usual to cross the street and walk into the building, as I really didn't care to fall. It turns out that the city buses were cancelled, the roads were so bad. so there were fewer of us at the Work Place Meeting than expected, and the person scheduled to do the first presentation got moved to the last time slot in hopes they would arrive by then (they did).
 
-I had forgotten to take my evening vitamin the day before and refill the box for the week, so I took the 12:30 bus home, and on the way stopped at Bryans to remove the snow berm blocking the driveway so that people will be able to park there when they stay there during the event this weekend.
+I had forgotten to take my evening vitamin the day before and refill the box for the week, so I took the 12:30 bus home, and on the way stopped at Alfr's to remove the snow berm blocking the driveway so that people will be able to park there when they stay there during the event this weekend.
 
 Then home, took my vitamin and re-filled the box, and tried to work a bit more.
 

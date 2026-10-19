@@ -33,7 +33,7 @@ After doing the shopping, we returned to the Crafts Afternoon, and spent a few d
 
 Part way through the meeting Petronilla decided she needed to head over to Class Olsens to buy something, and we all decided to join her. On the way we noticed a new food import store, so stopped in. They had pumpkin seeds in a bulk bin, so I bought a couple of kg, which should last me a while.
 
-At the next store we bought more: a new dish-washing brush, a portable electric heater that looks like a fireplace with a burning fire it it (for the upstairs bedroom), a personal reading/project light that hangs around the neck (that I am hoping will permit me to sew after sunset during road trips without causing light problems for the driver), and and a couple of decorative window lights (one moon, and one fireworks):
+At the next store we bought more: a new dish-washing brush, an [[Dekorationsbrasa]], portable electric heater that looks like a fireplace with a burning fire it it (for the upstairs bedroom), a personal reading/project light that hangs around the neck (that I am hoping will permit me to sew after sunset during road trips without causing light problems for the driver), and and a couple of decorative window lights (one moon, and one fireworks):
 
 ![[2026-09-27 new lights.jpg|500]]
 

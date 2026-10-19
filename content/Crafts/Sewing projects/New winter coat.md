@@ -1,7 +1,8 @@
 ---
 Published: true
 ---
-My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|Tasmania]] , and for which I have needed to replace the lining of a couple of times since, is once again in need of help. This time, I decoded that it is worth replacing the whole coat, instead of repairing it.
+# project motivation 
+My [[Old winter coat]], that I had mafe when I lived in Tasmania and for which I have needed to replace the lining of a couple of times since, was once again in need of help. This time, I decoded that it is worth replacing the whole coat, instead of repairing it, so I used the last of the [[Narrow heavy black wool]] for the outside, and the [[Maroon silk curtains]] for the lining, even though I know that I will need to repace the lining long before the wool wears out.
 # progress log
 ## to do
 
@@ -17,23 +18,28 @@ My winter coat I made when I lived in [[42. South Hobart, Tasmania 2006 - 2008|T
 - [x] sew the side rectangles + gores to the body to the top of the gores
 - [x] mark the curve of the back shoulders showing which part of the back body rectangle isn't needed for a good fit
 - [x] mark the curve of the front shoulders 
-- [x] baste the chack line, so its location doesn't get worn away when folded (done [[2026-10-11 adventures on the way home]]
-- [ ] double check that curve, if happy, trim the fabric to match
-- [ ] cut the mirror image for the other shoulder
-- [ ] sew the arms to the body, gathering them to fot the shoulders 
+- [x] baste the chack line, so its location doesn't get worn away when folded (got this far [[2026-10-11 adventures on the way home|2026-10-11]]
+- [x] attach the cuffs to the sleeve
+- [x] add reflex to the sleeve cuffs
+- [x] double check that curve, if happy, trim the fabric to match
+- [x] cut the mirror image for the other shoulder
+- [x] sew the arms to the body, gathering them to the shoulders 
+- [x] sew shut the remaining two side gore seams from hem to waist (got this far [[2026-10-16 what a small world!|2026-10-16]])
+- [x] cut two more skirt gores from the remaining fabric
+- [ ] insert the last couple of skirt gores
 - [ ] design and cut the collar
 - [ ] attach the collar
 - [ ] deside if the side rectangles also needs tailoring; if so, do it
 - [ ] sew the side rectangles to the body up to the armpit
-- [ ] decide if you can just cut the side gore to a trisngle point as is, or if it will need an extension, and then do it
-- [ ] attach the cuffs to the sleeve
+- [ ] decide if you can just cut the side gore underarm bit to a trisngle point as is, or if it will need an extension, and then do it
+- [ ] cut two more sleeve rectangles to make them even fuller.
 - [ ] sew the sleeves shut
 - [ ] design and cut the pockets
 - [ ] attach the pockets
-- [ ] make the belt
-- [ ] add belt loops
 - [ ] buy more reflex trim
-- [ ] add more trim
+- [ ] make the belt, with reflex trimcovering the seam
+- [ ] add belt loops
+- [ ] add more trim to the skirt and the pockets
 
 ## the days I worked on it
 - [ ] fill in the others

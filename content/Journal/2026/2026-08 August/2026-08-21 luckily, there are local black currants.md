@@ -30,7 +30,7 @@ After work I showed Kalle the blanket stitch, so he could sew shut the layers of
 
 When I got home they were cooking, so I put the berries in the fridge and curled up on the couch with a book for an hour or so, and then washed the berries and got them into the dehydrator after they'd finished eating and washing up.
 # a pleasant evening 
-Bryan dropped by while I was still dealing with the berries, and we four spent a pleasant evening talking crafts and SCA stuff. I eventually joined Gilbert in zoom for yoga and training, a bit later than usual, and didn't get to sleep till 
+Alfr dropped by while I was still dealing with the berries, and we four spent a pleasant evening talking crafts and SCA stuff. I eventually joined Gilbert in zoom for yoga and training, a bit later than usual, and didn't get to sleep till 
 Neatly 23:30.
 
 Previous post: [[2026-08-20 a work adventure]]

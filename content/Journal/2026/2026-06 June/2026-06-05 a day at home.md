@@ -19,7 +19,7 @@ Because tomorrow is Sweden's national day but is also a Saturday, today is a wor
 
 While he slept I harvested nettles, washed them, and got them into the dehydrator. By which time I was sleepy, so I took a 1.5 hour nap, and we both got up to face the day around 11:00 (at which point he was feeling much better).
 
-After a game of Qwirkle we took Bryan's new robot lawnmower over to his house,  found a good place for it to live and set it charging. Then we went up to the gas station to get fuel for our lawnmower,  and noticed the the second had store was open (they are rarely open more than one weekend a month), so we stopped in, and wound up buying a swt od small metal clasps and a pair of hand-woven white with blue lines linen dish towels for only 159 kr. They remind me a little of the [fancy blue and white ones that Lia wove](https://thornegge.wordpress.com/weaving/perugia-towels/) but the patterns of the stripes are very different 
+After a game of Qwirkle we took Alfr's new robot lawnmower over to his house,  found a good place for it to live and set it charging. Then we went up to the gas station to get fuel for our lawnmower,  and noticed the the second had store was open (they are rarely open more than one weekend a month), so we stopped in, and wound up buying a swt od small metal clasps and a pair of hand-woven white with blue lines linen dish towels for only 159 kr. They remind me a little of the [fancy blue and white ones that Lia wove](https://thornegge.wordpress.com/weaving/perugia-towels/) but the patterns of the stripes are very different 
 
 ![[2026-06-05 handwoven towels.jpg|500]]
 ![[2026-06-05 clasps.jpg|500]]

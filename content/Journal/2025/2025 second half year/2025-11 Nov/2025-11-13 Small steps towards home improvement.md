@@ -32,5 +32,5 @@ This morning we looked at the crack, and decided we would deal with it in stages
 
 ![[2025-11-13 BeReal fram.jpeg]]
 
-Previous post: [[2025-11-12 Bryan's new house]]
+Previous post: [[2025-11-12 Alfr's new house]]
 

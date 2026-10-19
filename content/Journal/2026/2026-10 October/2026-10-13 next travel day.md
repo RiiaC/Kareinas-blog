@@ -13,6 +13,7 @@ low_temp(°C):
 weight(kg):
 training:
   - Yoga
+  - Walk
 projects:
 tags:
 Published: true

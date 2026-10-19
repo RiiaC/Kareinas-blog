@@ -32,7 +32,7 @@ Even here at our house, it was looking pretty:
 And I like the little crescent moon behind the neighbour's tower:
 ![[2026-01-24 tower.jpg]]
 
-Then I walked down to take a quick look at Bryan's house:
+Then I walked down to take a quick look at Alfr's house:
 ![[2026-01-24 Bryans house.jpg]]
 
 Before walking down to the ice:
