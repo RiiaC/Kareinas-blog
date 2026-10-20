@@ -1,40 +1,41 @@
 # The Graphs
+Below are the graps of [[Food Long Month Summary#Food log Average amount eaten each month|how much]] I am eating, on average, each month, and what percentage of that falls into the six catagories of food I track, [[Food Long Month Summary#Food log Percent starch each month, on average|starch]],  [[Food Long Month Summary#Food log Percent veg each month, on average|veg]], [[Food Long Month Summary#Food log Percent protein each month, on average|protein]], [[Food Long Month Summary#Food log Percent fruit each month, on average|fruit]], [[Food Long Month Summary#Food log Percent dairy each month, on average|dairy]], and [[Food Long Month Summary#Food log Percent other each month, on average|other]] each month.
 ## Food log: Average amount eaten each month
 This graph shows how many bowls of food I eat each day, averaged for each month, in blue. There is also a thick blue dashed line, that shows the average number of bowls for the entire time I have been tracking (just over 3 bowls a day), and, in purple, the number of bowls eaten each day, averaged for a year (and plotted at the middle of each year, with a purple circle)
 
 It also shows my weight, in kg, in red. The graph is divided vertically based on where I was living at the time.
 
-This version of the graph was copied from the spreadsheet on [[2026-10-20|2026-10-20]], and will, I hope, be updated each month or so. I also need to download my weight log and import those numbers into the spreadsheet, I see that it has been quite a while since that was updated.
+This version of the graph was copied from the spreadsheet on [[2026-10-20 now the knives have their own page|2026-10-20]], and will, I hope, be updated each month or so. I also need to download my weight log and import those numbers into the spreadsheet, I see that it has been quite a while since that was updated.
 
 ![[food log month summary.png]]
 
 ## Food log: Percent starch each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log, starch.png]]
 
 ## Food log: Percent veg each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log, veg.png]]
 ## Food log: Percent fruit each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 ![[food log, fruit.png]]
 ## Food log: Percent protein each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log protein.png]]
 ## Food log: Percent dairy each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log, dairy.png]]
 ## Food log: Percent other each month, on average
-Last updated on [[2026-10-20|2026-10-20]]
+Last updated on [[2026-10-20 now the knives have their own page|2026-10-20]]
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log, other.png]]
