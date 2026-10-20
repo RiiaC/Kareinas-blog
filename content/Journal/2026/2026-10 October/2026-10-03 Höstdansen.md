@@ -72,4 +72,4 @@ The feast was full of good conversation, I made a nålbinded [[Black dragon bag]
 
 I stayed up till just after 01:00, and woke before 08:00, so got more than six hours of sleep.
 
-revious post: [[2026-10-02 fredag Höstdansen]]
+Previous post: [[2026-10-02 fredag Höstdansen]]
