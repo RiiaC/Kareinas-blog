@@ -26,6 +26,9 @@ Basic knife. Handel might be elm?
 ![[2026-10-20 Charles.jpg|500]]
 
 ![[2026-10-20 Charles, sheathed.jpg|500]]
+# Darcie 
+Simple medieval knife, moose an6tler handel, moasic and plain rivits
+![[2926-10-21 Darcie.jpg|500]]
 # Fern
 Copper pattern welded blade, burl, ebony, bone, and birch bark handel and tooled leather and brass sheath
 ![[2026-10-20 Fern.jpg|500]]
@@ -33,6 +36,9 @@ Copper pattern welded blade, burl, ebony, bone, and birch bark handel and tooled
 Pattern welded blade
 Oseberg face/knotwork carving on handel, which is a stabilised wood of some sort, plus moose antler, and fossilised and stabilised (black) dinosaur bone.
 ![[2026-10-20 Fimbul.jpg|500]]
+# Joe
+Small knife with a one-piece handle of birch or alder root
+![[2026-10-21 Joe.jpg|500]]
 # Gimli
 Pattern welded blade; Handle of whale bone, pewter, stabilised mammoth, stabilised birch, and moose antler handel, leather sheath with axe wielding bunny in a mug
 ![[2026-10-20 Gimli.jpg|500]]

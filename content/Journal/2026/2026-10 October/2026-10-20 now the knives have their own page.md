@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-10-20 nya knivar.jpeg]]"
 country:
   - Sweden
 location:
@@ -26,8 +26,8 @@ I worked until lunch, when Keldor got up and moved to the couch, then I took a n
 Now I really should spend some of the evening working, since I didn't this afternoon (Keldor's sick days are not so good for my productivity, that is my story to explain today's focus direction, and I am sticking with it.)  Of course, I didn't. Instead, Keldor told me that while I was busy working on transforming my logs and graphs into blog-able form, he went to the attic, and made further progress on covering the last of the insulation with plywood. Till he ran out of plywood. So I went upstairs to check it out, and stayed to spackle more of the plywood. Now we have the bedroom half of the area spackeled and ready for sanding (as soon as it dries).
 
 Then we played a quick game of Quirkel, and then Keldor asked me to take photos of some of his newest knives, so I took the time to give them names, add them to Trello, assign prices, and then I created a page for his [[Knives]] and [[Axes]] here, and copied over all the ones from the still for sale list on our [Trello board for his knives, axes etc](https://trello.com/invite/b/6434e0ccb16e10451a438148/ATTI4c92faf10f9fbce8a08dff46b27bded921EFCA81/att-salja).
+Here are the ones that are new this week:
 
-
-
+![[2026-10-20 nya knivar.jpeg|500]]
 
 Previous post: [[2026-10-19 another recovery day]]

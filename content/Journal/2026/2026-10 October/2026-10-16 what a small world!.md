@@ -12,6 +12,7 @@ low_temp(°C):
 weight(kg):
 training:
   - Yoga
+  - Walk
 projects:
   - "[[New winter coat]]"
 tags:

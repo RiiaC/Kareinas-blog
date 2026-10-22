@@ -14,8 +14,10 @@ Here is the price list, in Euros, sorted alphabetically by name under each categ
 - [ ] [[Knives#Bertha|Bertha]] €200
 - [ ] [[Knives#Bethany|Bethany]] €100
 - [ ] [[Knives#Charles|Charles]] €100
+- [ ] [[Knives#Darcie|Darcie]] €110
 - [ ] [[Knives#Fern|Fern]] €400
 - [ ] [[Knives#Fimbul|Fimbul]] €400
+- [ ] [[Knives#Joe|Joe]] €75
 - [ ] [[Knives#Gimli|Gimli]] €300
 - [ ] [[Knives#Ginger|Ginger]] €500
 - [ ] [[Knives#Gunlög|Gunlög]] €600 
