@@ -1,0 +1,2 @@
+- [ ] add notes of what happened, when
+- [ ] add photos

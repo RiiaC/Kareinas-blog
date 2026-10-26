@@ -30,7 +30,15 @@ Yes, the ice-cream from [Närpes Glassfabrik](https://glassfabriken.fi/) is as g
 
 The next stop was at a highway gas station/market in Rauma, for toilet, fuel for the car, and because Bryan had forgotten to buy licorice at the last grocery store.
 
-Then on to Turku, where we bought sweaters at a second hand store. Keldor got a classsic Norwegian style wool sweater, I got a grey and white thick wool poncho with hood that is really nice, and Bryan bought a blue velvet suit jacket that fits like it had been custom made for him. We also got a game at the game store (thanks, Bryan!), and then we went to a tiny restaurant, [The Indian Curry House](https://www.indiancurryhouse.fi/), for a late lunch/early dinner. Yum!
+Then on to Turku, where we bought sweaters at a second hand store. Keldor got a classsic Norwegian style wool sweater, I got a grey and white thick wool poncho with hood that is really nice, and Bryan bought a blue velvet suit jacket that fits like it had been custom made for him. 
+
+(a couple of weeks later, we finally got photos of the sweaters, as my sisters wanted to see them, so I will put them here)
+
+![[2026-10-09 poncho.jpg|500]]
+
+![[2026-10-09 sweater.jpg|]]
+
+We also got a game at the game store (thanks, Alfr!), and then we went to a tiny restaurant, [The Indian Curry House](https://www.indiancurryhouse.fi/), for a late lunch/early dinner. Yum!
 
 I managed to eat all of my naan bread and half of my Palak Paneer (this was much more than I should have eaten on one go), and I packed the rest of my bmved and rice up to take home. They both had the mutton curry, and managed to eat all of it, and their naan, and most of their rice.
 
