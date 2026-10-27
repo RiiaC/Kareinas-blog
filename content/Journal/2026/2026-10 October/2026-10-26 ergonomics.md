@@ -22,6 +22,12 @@ Today I had only one meeting that needed to  me to head to town, an "*ergonomisk
 
 I was told that for this sort of purchase I need to have someone come and assess my office to see how my set up is with respect to ergonomics, and after that they can decide which solution(s) are appropriate. Sure, why not? So someone will come to my office at 10:00 today to have a look, so I really need to be there, as the set up is meaningless without the body to which it needs to be matched.
 
+The visit turned out to be very worthwhile. It turns out that the chair that came with the office is far more customise-able than I knew, so now I know how to make it more comfortable for various configurations. I also found out that they recommend that the top of the monitor be no higher than one's eye height, so one looks down at most of the screen. I had had mine a good 5 to 10 cm too tall, which goes a long way to explain why I have such problems with the wrong glasses, I then tilt my head even higher than I would with a good screen height.
+
+The physical therapist agrees that the Movemate would be a good thing, and if not that, at least a cushioned mat to stand on, and also says I would benefit from either an "active sitting" chair, or a kneeling chair, and will send recommendations to the uni.
+
+After that meeting the timing was perfect to just pack up the computer and head straight to the bus stop and head home again, so I was home by 13:00. I should have resumed working, but instead I busied myself with small useful tasks around the house and had a nice, relaxed evening.
+
 
 
 
