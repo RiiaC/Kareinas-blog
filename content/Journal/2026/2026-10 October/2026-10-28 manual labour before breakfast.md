@@ -12,6 +12,8 @@ weight(kg):
 training:
   - Yoga
   - Manual_labour
+  - Slow_sword_practice
+  - HIT
 projects:
   - "[[Paving stones for the parking area, etc.]]"
 tags:
@@ -36,6 +38,24 @@ By the time I finished, got inside, and found breakfast, it was already 07:20, s
 I also see from the photo that the neighbour's house, which had been peeling green paint for years, with a small bit of a dark grey test patch in one corner, has finally been painted sometime this summer or autumn, on a day we weren't home. Gee, it looks much better!
 
 I should have worked directly, but I couldn't resist copying notes for the [[Paving stones for the parking area, etc.]] project from Trello, which meant it was after 08:00 before my workday began. Oops.
+
+Luckily, the rest of the work day went reasonably productivly. I had a meeting with Bruno, who wanted to practice for the [Swedigarch Inspirational Lecture](https://swedigarch.se/index.php/event/swedigarch-inspirational-lecture-10-with-bruno-castellano-mengibar-buried-stories-what-stories-can-sead-data-tell-us/) next week. I think it is going to be a very good talk.
+
+After work I went into Skellefteå to an optometrist, to find out if it will work to get contact lenses for fighting. It turns out that my right eye has such a small astigmatism that it isn't really possible to correct for it with contacts, but the left eye is bad enough that they can. So we decided to test a solution with a contact lense only in the left eye, and only correcting for the astigmatism. 
+
+Oh my goodness! Normally I hate to go without my glasses as it gives a headache instantly, which has been part of the reason I haven't fought much. But with the one contact lens in, suddenly it doesn't hurt. I can't read, of course, because farsighted, but any normal over the counter pair of reading glasses solves that problem. 
+
+He had me test one, looked at how it sits, decided that it was off center, so we threw that one away and tried a slightly different one, and that one sits much better. So he gave me a packet of four more, to test and see if they will work, and if they do, I can order a 30 pack of daily wear lenses for that eye for just under 500 sek.
+
+I wore the first test lens out, and promptly went to buy a cheap pair of over the counter reading glasses. Keldor has many in the house, but his are always dirty and scratched, as he is hard on them.
+
+More than an hour later, as I type this paragraph, I still have no headache from wearing one contact lense and nothing on the other side.
+
+We have been to collect my car, which had its annual service today. My assessment of driving with one contact lens is that it is doable, but I would rather drive wearing my normal glasses.
+
+After we got home, we got out his weighted training swords, and did a little slow work. That seems to work well with a single contact, too. Now we just need to find time to finish my helmet, so I can try really fighting...
+
+Then I did a longer yoga and HIT session (40 minutes), before chasing Keldor out of the bathtub so I could get a shower and get ready for bed.
 
 
 Previous post: [[2026-10-27 a prototype for a better home workstation]]
