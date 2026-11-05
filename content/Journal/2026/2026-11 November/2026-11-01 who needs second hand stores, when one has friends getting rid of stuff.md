@@ -20,16 +20,21 @@ Published: true
 
 We helped Torunn today with some paking and organising. She is making good progress on the goal to empty Ingemar's apartment so she can sell it. There is still much to be dealt with (he had been born under the sign of the hamster), but we got two bookcases emptied and dissembled. We also looked in each of the storerooms, and took a variety of things home, including:
 
-- a sheepskin coat
-- a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#Swedish army vintage surrival coat|Swedish army vintage surrival coat,]]  lined with fur, and a huge stand up collar. The sort of thing that will keep Keldor comfortable for ice fishing. The lining is mostly reindeer, where it isn't sheepskin.
-- two blue silk chinese tops/coat things that fit me perfectly 
-- a formal mens penguin suit, with tails
-- a stack of English history books printed in the 1800s
-- a microscope 
-- som nice wool blankets
-- a couple of spear heads
-- some moose antlers
-- a nice, antique portable serving table for Alfr's house
+1. a sheepskin coat
+2. a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#Swedish army vintage surrival coat|Swedish army vintage surrival coat,]]  lined with fur, and a huge stand up collar. The sort of thing that will keep Keldor comfortable for ice fishing. The lining is mostly reindeer, where it isn't sheepskin.
+3. two blue silk chinese tops/coat things that fit me perfectly 
+4. a formal mens penguin suit, with tails
+5. a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#English history books printed in the 1800s|stack of English history books printed in the 1800s]]
+6. [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#a microscope|a microscope]]
+7. some [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#wool blankets|wool blankets]] (I especially like the brown one)
+8. a couple of spear heads
+9. three sets of [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#grey vadmal coats and trousers|grey vadmal coats and trousers]]
+10. some [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#moose antlers|moose antlers]]
+11. a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#a blue rug|blue rug]]
+12. a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#a blue and white sweater|blue and white sweater]]
+13. a [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#couple of cloth buckets|couple of cloth buckets]]
+14. an [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#electric ice chest|electric ice chest]] of the sort one plugs into a car charger socket 
+15. a nice, antique [[2026-11-01 who needs second hand stores, when one has friends getting rid of stuff#portable serving table|portable serving table]] for Alfr's house
 
 We also took home Torrin's old safe. Apparently one of the hinges had broken off years ago, so someone welded it back, but in the wrong spot, so it is no longer possible to put the door back. Keldor will take it to work, cut off the hinge, and re weld it, in the correct spot this time, and then we will give it back to Torunn, who looks forward to it being useable again.
 
@@ -45,5 +50,28 @@ We were lucky, it had moved, but not enough to damage anything. Even the serving
 # English history books printed in the 1800s
 ![[2026-11-01 books.jpg|500]]
 ![[2026-11-01 book title.jpg|500]]
+# a microscope 
+![[2026-11-01 microscope.jpg|500]]
+
+![[2026-11-01 microscope box.jpg|500]]
+# wool blankets 
+![[2026-11-01 brunfilt.jpg|500]]
+![[2026-11-01 vit blå ull filt.jpg|500]]
+
+![[2026-11-01 ullfilt.jpg|500]]
+# moose antlers 
+![[2026-11-01 älghorn.jpg|500]]
+# a blue rug
+![[2026-11-01 rug.jpg|500]]
+# grey vadmal coats and trousers
+![[2026-11-01 wool clothes.jpg|500]]
+# a blue and white sweater
+![[2026-11-01 sweater.jpg|500]]
+# couple of cloth buckets
+![[2026-11-01 tyghink.jpg|500]]
+# electric ice chest
+![[2026-11-01 kylllåda.jpg|500]]
+# portable serving table
+![[2026-11-01 table.jpeg|500]]
 
 Previous post: [[2026-10-31 two days for the price of one]]

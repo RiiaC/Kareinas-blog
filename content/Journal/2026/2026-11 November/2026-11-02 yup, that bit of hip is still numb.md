@@ -16,9 +16,9 @@ projects:
 tags:
 Published: true
 ---
-Finally had the many times deferred visit to the physical therapist at Lövånger's health center. The problem that I had with my hip [[2026-04-17 such a relief|in April]] hasn't left any real measurable issues with my ability to move in any direction, but the numbness on the left hip that started then is still there (and far more noticable when someone else is mapping the extent by touching both sides at once!).
+Finally had the many times deferred visit to the physical therapist at Lövånger's health center. The problem that I had with my hip [[2026-04-17 such a relief|in April]] hasn't left any real measurable issues with my ability to move in any direction, but the numbness on the left hip that started then is still there (and far more noticeable when someone else is mapping the extent by touching both sides at once!).
 
-The numbness is probably only a residual effect of the nerve having been pinched, ornperhaps stretched, back in April. Sometimes such things never return to notmal. However, I have been referred to also see a doctor about it in a couple of weeks, just in case it is due to something else.
+The numbness is probably only a residual effect of the nerve having been pinched, or perhaps, too stretched, back in April. Sometimes such things never return to normal. However, I have been referred to also see a doctor about it in a couple of weeks, just in case it is due to something else.
 
 Keldor managed to fix the safe door during a break at work today. After work we took the safe and left it in Alfr's garage till we can get it back to Torunn. We also left the stack of tents from Torrun there, till we have a chance to check them and see which poles go to what, and how many aree usable.
 

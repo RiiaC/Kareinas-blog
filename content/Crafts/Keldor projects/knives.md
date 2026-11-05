@@ -68,6 +68,11 @@ Finished handle 2025-11-07: moose antler, pewter,  birch bark, and wood from the
 ![[2026-10-20 Takiuki.jpg|500]]
 
 ![[2026-10-20 Takiuki sheathed.jpg|500]]
+# Valerie 
+Handel: Bronze, Mammoth tusk, and willow root (sälgrot)
+Pattern welded blade with copper layers
+Blade made long ago, handel done Nov 2026 
+![[2026-11-04 Valerie.jpg|500]]
 # Wembley
 Seax med Oseberg huvet.
 37.5 total length, of which 22.5 is blade, 4 cm wide

@@ -18,9 +18,9 @@ I decided to work from Skelleftehamn today, so that I will be able to return the
 
 Why? In part because I didn't much like the propensity of Windows 11 to do things for me without asking consent first. In part because my home Wacom pen and tablet is too old to work with that type of processor (it literally wouldn't install the driver that works with that pen/tablet, as the "platform isn't supported"), but the straw that really made It easy to decide not to keep it was when I tried to copy over the documents folder from the old computer, and it wouldn't fit. Therefore, it wouldn't be possible to install any programs, either. Nope, just nope. I will take it back, and put off buying a new one till after we get back from Boar Hunt.
 
-![[2025-10-15 BeReal oss.jpeg]]
+![[2025-10-15 BeReal oss.jpeg|500]]
 
-![[2025-10-15 BeReal fram.jpeg]]
+![[2025-10-15 BeReal fram.jpeg|500]]
 
 After work we went to buy a ladder to fix the roof on the house, and then to the Museum for a lecture. [Järnframställning i Norrbotten](https://skelleftea.se/invanare/arkiv/evenemangskalender/evenemang/2025-09-03-jarn-i-norr---forntida-staltillverkning-bland-jagar--och-samlargrupper-i-arktiska-europa)
 
@@ -36,56 +36,56 @@ Jump to the Previous post: [[2025-10-14 perhaps I will keep it]] or scroll down 
 - 
 
 
-![[2025-10-15_1 förra studien.jpg]]
-Vivungi
+![[2025-10-15_1 förra studien.jpg|500]]
+# Vivungi
 Found slag in two places on the beach
 
-![[2025-10-15_2 grävning.jpg]]
+![[2025-10-15_2 grävning.jpg|500]]
 Then found more concentrated slag, iron, and furnace. All 2000 år gammal 
 
-Then wen back and looked at old collections 
+# Then wen back and looked at old collections 
 
-![[2025-10-15_3 slag.jpg]]
+![[2025-10-15_3 slag.jpg|500]]
 
-![[2025-10-15_4 för och nu.jpg]]
+# Now we know about so many more sites than we did in 2017
 
+![[2025-10-15_4 för och nu.jpg|500]]
 
-C14 dates work on steel!
-![[2025-10-15_5 experiments.jpg]]
+# C14 dates work on steel!
+![[2025-10-15_5 experiments.jpg|500]]
 Even earlier date from Arvidsjaur, same age as middle east early finds
-![[2025-10-15_6 old slag.jpg]]
-Methods
+![[2025-10-15_6 old slag.jpg|500]]
+# Methods
 
-![[2025-10-15_7 methods.jpg]]
-High carbon steel, high quality 
-![[2025-10-15_8 Vivungi.jpg]]
-Roman ore high Mn. So is ours. 
+![[2025-10-15_7 methods.jpg|500]]
+# High carbon steel, high quality 
+![[2025-10-15_8 Vivungi.jpg|500]]
+# Roman ore high Mn. So is ours. 
 0,8%
-
-
-![[2025-10-15_9 experiment.jpg]]
-
-![[2025-10-15_10 old slag.jpg]]
-As found:
-![[2025-10-15_11 furnace.jpg]]
-Missed a photo
-![[2025-10-15_12 bellows.jpg]]
+![[2025-10-15_9 experiment.jpg|500]]
+# bits of furnace wall
+![[2025-10-15_10 old slag.jpg|500]]
+# As found:
+![[2025-10-15_11 furnace.jpg|500]]
+# working the bellows
+![[2025-10-15_12 bellows.jpg|500]]
 Need to trade off for ___ hours, keep tempo
-![[2025-10-15_13 young slag.jpg]]
-Jarnlump
-![[2025-10-15_14 hot bloom.jpg]]
+# slag
+![[2025-10-15_13 young slag.jpg|500]]
+# Jarnlump
+![[2025-10-15_14 hot bloom.jpg|500]]
 Små fragmenter ramlar. Det hittade vi.
 
-Quality steel 
+# Quality steel 
 Felra steg. Behändlet och förbättra 
-![[2025-10-15_15 artefacts.jpg]]
+![[2025-10-15_15 artefacts.jpg|500]]
 Holkyxa av stål
 Knife edge harder
 Temperature blended ovanligt, but we did it
 Clearly knew what they were doing
 
-Multiple metals in one slag:
-![[2025-10-15_16 med koppar.jpg]]
+# Multiple metals in one slag:
+![[2025-10-15_16 med koppar.jpg|500]]
 
 Lodning
 Plätering
@@ -95,18 +95,18 @@ Needs control, small temperature windows
 
 We only have slage evidence, here, so far
 
-Bronze plated spear
+# Bronze plated spear
 
-![[2025-10-15_17 bronze plated.jpg]]
+![[2025-10-15_17 bronze plated.jpg|500]]
 
-Many stages
-![[2025-10-15_18 all the steps.jpg]]
+# Many stages
+![[2025-10-15_18 all the steps.jpg|500]]
 Collect
 
 Climate matters, some of this is seasonal
 
-Summer:
-![[2025-10-15_19 organisation.jpg]]
+# Summer:
+![[2025-10-15_19 organisation.jpg|500]]
 
 Dry trees 1 2 seasons before coal
 
@@ -116,16 +116,16 @@ Small communites
 
 Probably collective work
 
-Water also had fish 
-![[2025-10-15_20 with fishing.jpg]]
+# Water also had fish 
+![[2025-10-15_20 with fishing.jpg|500]]
 
-Ore 1.5 to 4 m djup can be very near shore
+# Ore 1.5 to 4 m deep can be very near shore
 
-![[2025-10-15_21 close map.jpg]]
+![[2025-10-15_21 close map.jpg|500]]
 Chewed bits of dried fish found
 
 
-![[2025-10-15_22 fortsatt forskning.jpg]]
+![[2025-10-15_22 fortsatt forskning.jpg|500]]
 Used to think settled in winter and nomad in summer
 
 But iron smelting needs more in place in summer
@@ -134,13 +134,6 @@ Well developed technique,  no trace of experimental stage
 
 Already advanced 300 BC. How so quick spread? That is current focus of research 
 
-
-
-
-Went back to this photo
-- [ ] find the better version and fix record 
-
-![[2025-10-15_4 för och nu.jpg]]
 
 So much iron needed per farm, so we produced enough in one place for ___ farms
 

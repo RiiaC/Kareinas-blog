@@ -25,6 +25,7 @@ Here is the price list, in Euros, sorted alphabetically by name under each categ
 - [ ] [[Knives#Pumpkin|Pumpkin]] €600
 - [ ] [[Knives#Stig-Olof|Stig-Olof]] €75
 - [ ] [[Knives#Takiuki|Takiuki]] €80
+- [ ] [[Knives#Valerie|Valerie]] €500
 - [ ] [[Knives#Wembley|Wembley]]  €200
 - [ ] [[Knives#Wilbur||Wilbur]] €130
 # Other
