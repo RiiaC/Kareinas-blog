@@ -1,5 +1,5 @@
 An outdoor place for our indoor cats
-- [ ] finish reformatting the notes from trello (@2026-11-09)
+- [ ] finish reformatting the notes from trello
 # progress notes from Trello 
 ## 2024-09-14 lördag  
 - 4 timmar

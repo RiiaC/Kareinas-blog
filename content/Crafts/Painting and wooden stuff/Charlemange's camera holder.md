@@ -13,15 +13,33 @@ A secure headmount for our GoPro camera that looks reasonably period, so that I 
 # inspiration 
 The Crown of Charlemagne
 ![[2026-03-20 Crown of Charlemagne.jpg|500]]
-# Progress 
+# construction thoughts
+On  [[2026-11-07 adventure and armouring]] I woke up thinking of the leather version of my [[Charlemange's camera holder]] in progress, and how to sew in the "jewels". The big panels, which ate enamel in the original are no problem  simply silk paint my arms on them do a tiny rolled hem on the edges, and sew them in place. 
+
+For the "sew in place" Step, I can do a double running stitch between the sewing holes on the crown with a sturdy yarn/thick linen thread. Do a similar double running stich around the perimeter of the "jewels", and then use a decorative yarn to do an osen stitch through both double running stitches to fasten them in place in a pretty manner.
+
+For the tiniest jewel holes, which were pearls in the original, perhaps I can sew in hematite beads from that necklas I got when I lived in [[13. Anchorage, Alaska, Lovejoy Dr. 1987|Alaska]].
+
+If I still want to go with painted silk for the middle "jewels", I wonder if sewing them over bits of thick, clear, plastic to give them shape, without interfering with light transmission would work?
+# Leather version of the Charlemange's Camera Holder Progress Log 
+The [[Charlemange's camera holder#Useable Cardboard Mock-up Progress Log|cardboard mock-up]]  was usable for a couple of BmCrown Tournaments, but I wanted something that could last longer term, and be less sensitive to rain.
+## [[2026-09-20 who has time|2026-09-20]]
+- started painting the leather panels that Alfarinn printed for me last spring
+- [ ] copy over the other painting progress from the backlinks (@2026-11-16)
+## [[2026-03-21 progress in more directions than I had anticipated|2026-03-21]]
+I cut a piece of heavy leather to test my calculations for my [[Charlemange's camera holder]] circlet, and I determined that while it will work as planned to hold the camera, cutting all the pannels by hand in that thickness will take far too long. 
+So I sent an note to Alfarinn to ask if there was a possibility to get the pieces cut in their laser cutter and we could pick it up next weekend when we are there. Alternatively, I could do it in painted cardboard, but a leather version would last longer
+# Carring box for camera holder
+## [[2026-04-09 a visit from my apprentice|2026-04-09]]
+Finished covering the cookie tubs with vadmal, so now it is possible to put the camera holder and mounted camera inside, padded with nålbinded socks,  and pin the case shut for travel. 
+## [[2026-03-31 a bit more energy today|2026-03-31]]
+Started sewing a carrying case for camera holder. Grey vadmal over a pair of plastic cookie tubs exactly the right size.
+# Useable Cardboard Mock-up Progress Log
 # [[2026-04-11 Crown Tournament]]
 Tested the camera holder by filming Keldor’s fights at Crown
 ![[2026-04-11 Charlemagne camera.jpeg]]
 ![[2026-04-11 Charlemagne camera holder.jpeg]]
-# [[2026-04-09 a visit from my apprentice|2026-04-09]]
-Finished covering the cookie tubs with vadmal, so now it is possible to put the camera holder and mounted camera inside, padded with nålbinded socks,  and pin the case shut for travel. 
-# [[2026-03-31 a bit more energy today|2026-03-31]]
-Started sewing a carrying case for camera holder. Grey vadmal over a pair of plastic cookie tubs exactly the right size.
+
 # [[2026-03-28 a productive Saturday|2026-03-28]]
 Finished assembly of the mockup 
 
@@ -40,10 +58,7 @@ The furthest left of the image is the back center panel, and then the panels pro
 
 The coloured bits representing jewels, and the larger arches with my arms and the laurel wreath will be painted silk. All the tiny black dots are holes for either sewing the panels together, or sewing the silk to the leather.
 
-# [[2026-03-21 progress in more directions than I had anticipated|2026-03-21]]
-I cut a piece of heavy leather to test my calculations for my [[Charlemange's camera holder]] circlet, and I determined that while it will work as planned to hold the camera, cutting all the pannels by hand in that thickness will take far too long. 
 
-So I sent an note to Alfarinn to ask if there was a possibility to get the pieces cut in their laser cutter and we could pick it up next weekend when we are there. Alternatively, I could do it in painted cardboard, but a leather version would last longer
 ## [[2026-03-20 lots of unplanned errands|2026-03-20]]
 - [x] make a paper pattern consisting of 8 oval plates taped to a narrow band around my head, and two side-running over the top of my head bands, and one perpendicular bacd to connect them ro each other
 ![[2026-03-20 Charlemanges camera.jpg|200]]

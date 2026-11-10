@@ -26,14 +26,19 @@ My [[Old winter coat]], that I had mafe when I lived in Tasmania and for which I
 - [x] sew the arms to the body, gathering them to the shoulders 
 - [x] sew shut the remaining two side gore seams from hem to waist (got this far [[2026-10-16 what a small world!|2026-10-16]])
 - [x] cut two more skirt gores from the remaining fabric
-- [ ] insert the last couple of skirt gores
+- [x] insert the last couple of skirt gores
+- [x] trace the upper back to make a paper mock-up 
+- [x] slit it from neck to waist and insert a paper triangle
+- [x] adjust the size of the triangle till it is a good size to shift the armholes to a better position
+- [x] cut a cloth triangle that size, line it
+- [ ] insert the new upper back triangle gore into the coat (got to this step [[2026-11-08 a productive morning|2028-06-08]] )
+- [ ] cut two more sleeve rectangles to make them even fuller.
+- [ ] sew the sleeves shut
 - [ ] design and cut the collar
 - [ ] attach the collar
 - [ ] deside if the side rectangles also needs tailoring; if so, do it
 - [ ] sew the side rectangles to the body up to the armpit
 - [ ] decide if you can just cut the side gore underarm bit to a trisngle point as is, or if it will need an extension, and then do it
-- [ ] cut two more sleeve rectangles to make them even fuller.
-- [ ] sew the sleeves shut
 - [ ] design and cut the pockets
 - [ ] attach the pockets
 - [ ] buy more reflex trim
@@ -43,6 +48,7 @@ My [[Old winter coat]], that I had mafe when I lived in Tasmania and for which I
 
 ## the days I worked on it
 - [ ] fill in the others
+- [[2026-11-08 a productive morning|2026-11-08]] at Hantverksträff I decided that it was time to look at the shoulders of the coat, and consulted with Pernilla, who could see the back. We decided to add a triangle gore to the back center of my upper back, to shift the seam for the sleeve attachment a bit further out, and then take off a corresponding amount from the front of the armscythe. 
 - [[2026-09-08 doing my homework]] now both front pieces have their gore on the side that opens, and that side and the hems have been finished with osenstitch (as has the seams themselves). It has been some days since I finished putting the set of three gores into the central back slit.
 - [[2026-09-03 just work and a little creative painting]]
 - [[2026-09-01 a new month starts with a lot of work focus]]

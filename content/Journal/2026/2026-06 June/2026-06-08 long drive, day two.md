@@ -44,7 +44,7 @@ The next stop was the has station in Umeå, where I bought a black current and v
 Keldor called me just as I bought the first, and when I told him what I was eating he commented that it had been made for me. It really was.
 
 I finally reached home at 16:50, unloaded only food, computer bag, and my pillows, and curled up with a book for a bit. The event stuff can wait for tomorrow. 
-# Home to find a new cool tool for the workshop
+# Home to find a new cool multitool for the workshop
 Keldor came home from work a bit later, with his new purchase, a second hand EmcoStar all in one compact shop tool, [like the one in this blog](https://woodgears.ca/reader/paul/emcostar.html). He bought it from a retired guy who doesn't use it any more, who had inherited it from his dad. 
 
 ![[2026-06-08 emcostar.jpg|500]]

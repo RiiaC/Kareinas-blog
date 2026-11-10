@@ -1,0 +1,32 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.path.startsWith("Runestones")
+        - file.name != "index"
+        - file.name != "Runestones.base"
+    order:
+      - file.name
+      - image
+      - lämningsnummer
+      - province
+      - date_seen
+      - RÄA_nummer
+      - runestone_number
+      - tags
+      - url
+    columnSize:
+      file.name: 126
+  - type: cards
+    name: View 2
+    filters:
+      and:
+        - file.path.startsWith("Runestones")
+        - file.name != "index"
+        - file.name != "Runestones.base"
+    order:
+      - file.name
+      - date_seen
+    image: note.image
+    cardSize: 150
