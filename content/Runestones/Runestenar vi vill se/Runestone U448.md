@@ -5,13 +5,15 @@ country:
   - Sweden
 province: Uppland
 runestone_number: U488
-lämningsnummer: L2016:3495
+lämningsnummer: "[L2016:3495](https://app.raa.se/open/fornsok/lamning/8e61e977-1ced-4035-8dc4-2928b955d677)"
 RÄA_nummer: Odensala 135:1 i Sigtuna, Stockholm
 image: "[[U448, L2016_3495.jpg]]"
 date_seen: wishlist
 url: https://runkartan.se/runristningar/runsten-u448-l2016-3495-odensala-135-1-i-sigtuna-stockholm.html
+tags:
+  - runestones
 ---
-> [!info] Runsten U448, L2016:3495, Odensala 135:1 i Sigtuna, Stockholm
+> [!info] Runsten U448, [L2016:3495](https://app.raa.se/open/fornsok/lamning/8e61e977-1ced-4035-8dc4-2928b955d677), Odensala 135:1 i Sigtuna, Stockholm
 
 # Arkeologisk beskrivning av runstenen
 > Runsten, granit, 1,9 m h, intill 1,45 m br (NNÖ-SSV) och intill0,5 m tj, Runhöjd 8-9 cm. Ristningen vetter mot ösö. Runstenensägs vid tidigare inventering stå Ö om vägen och är också markerdså på både ekonomiska och topografiska kartan. Den är sålundaflyttad till V sidan av vägen eller tidigare felmarkerad. Denstår nu på gränsen till gravfält nr116. 

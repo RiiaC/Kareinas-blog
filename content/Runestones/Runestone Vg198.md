@@ -5,15 +5,15 @@ country:
   - Sweden
 province: Västra Götaland
 runestone_number: Vg198
-lämningsnummer: L1967:9695
+lämningsnummer: "[L1967:9694](https://app.raa.se/open/fornsok/lamning/7f62cd17-f6af-4246-a073-7017fda3f5c2)"
 RÄA_nummer: Dalum 10:2 i Ulricehamn
 image: "[[Runestone Vg198.png]]"
 url:
 tags:
   - cross
-date_seen: "[[2025-03-23]]"
+date_seen: "[[2025-03-23 road trip runestones|2025-03-23]]"
 ---
-Vg198> [!info] Runsten Vg198, L1967:9694, Dalum 10:1 i Ulricehamn, Västra Götaland
+Vg198> [!info] Runsten Vg198, [L1967:9694](https://app.raa.se/open/fornsok/lamning/7f62cd17-f6af-4246-a073-7017fda3f5c2), Dalum 10:1 i Ulricehamn, Västra Götaland
 # our photos
 ![[2025-03-23 Vg198.jpg|500]]
 

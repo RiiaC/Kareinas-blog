@@ -28,6 +28,6 @@ It was, and he drove to the same second hand store as we did, so while Torunn dr
 
 We also ran into another SCA person, whose name escapes me at the moment, who was buying Christmas decorations to fix up and make even more festive. At this news Torunn offered her a plastic Christmas tree, and got a Yes! So we said goodbye to Drake and went to one of Ingemar's storage places (there are several, there is a reason he's been gone nearly 2 years, and she's still working att reducing the amout of his stuff), and then another. She took the Christmas tree, and I wound up with a good umbrella,  a bag of hangers, a fur coat (had been his mother's, and much too small across the shoulders for Torunn), and a picknick basket. 
 
-We gung our chatting till 20:00, and then went home, put everything away, washed the lining of the new cat carrier, played another game of Qwirkle (I lost this time), and cleaned the guest room and made the bed in prep for Clara's arrival from Pennsylvania tomorrow.
+We hung out chatting till 20:00, and then went home, put everything away, washed the lining of the new cat carrier, played another game of Qwirkle (I lost this time), and cleaned the guest room and made the bed in prep for Clara's arrival from Pennsylvania tomorrow.
 
 Now I have done my yoga, and it is once again 01:30, so I had better go get some sleep. 

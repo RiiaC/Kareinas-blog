@@ -41,16 +41,16 @@ I was doing a video call with the person who will stay with the cats when I am i
 # Second runestone stop
 Runsten Nä12, L1981:8316, Stora Mellösa 32:1, Örebro
 Is a lovely pink granite stone. There is another runestone inside the church, but it wasn't open, so we missed that one.
-![[2026-05-17 Runsten Nä12_.jpeg]]
+![[2026-05-17 Runsten Nä12_.jpeg|500]]
 
 ![[2026-05-17 runestone Nä12 selfie.jpeg|500]]
 
 # and a treuddan 
 L1980:3563 Stora Mellösa 14:2
 This is Närkes largest trident grave, an unusual grave form, with large stones marking a triangular boundry. This one dates to sometime between 800 to 1050 AD, so is at least 50 years younger than the church it sits next to.
-![[2026-05-17 treuddan skylt.jpg]]
-![[2026-05-17 treuddan.jpg]]
+![[2026-05-17 treuddan skylt.jpg|500]]
 
+![[2026-05-17 treuddan.jpg|500]]
 # Continuing north
 The next real stop was in Sala, to buy icecream and snacks for the drive.
 ![[2026-05-17 roadtrip ice cream.jpg|500]]

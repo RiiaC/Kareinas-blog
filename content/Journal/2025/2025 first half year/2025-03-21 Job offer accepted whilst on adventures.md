@@ -27,9 +27,11 @@ I got the call as we were walking down a dirt road, trying to get within sight o
   
 The next two runestones were much more satisfying. [One, Vg56, is a horned man](https://runkartan.se/runristningar/runsten-kallby-hallar-vg56-l1962-7447-kallby-23-2-i-gotene-vastra-gotaland.html#gsc.tab=0) , with what we saw as "en stor kuk, lång, kraftig och tung" (to quote the song) but the web page describes as "Thor with the belt of strength? [We took a photo,](https://www.facebook.com/share/p/15TnPAzMv6/) what do you think,?  
   
-Now we are just about to site, not quite an hour after it opened.
-
 Runestone v56, is described on the web page as possibily being Thor with his belt of strength. We see a horned man with a "stor kuk, lång, kraftig tung" (to quote the song we sang as soon as we saw it). What do you see?
 
 
 ![[2025-03-21 en stor kuk.jpg]]
+
+![[2025-03-21 runestone and group.png|500]]
+
+Now we are just about to site, not quite an hour after it opened.

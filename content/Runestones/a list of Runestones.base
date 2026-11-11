@@ -1,0 +1,42 @@
+views:
+  - type: cards
+    name: View 2
+    filters:
+      and:
+        - file.path.startsWith("Runestones")
+        - file.name != "index"
+        - file.name != "a list of Runestones.base"
+    order:
+      - file.name
+      - date_seen
+    image: note.image
+    cardSize: 140
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.path.startsWith("Runestones")
+        - file.name != "index"
+        - file.name != "a list of Runestones.base"
+    order:
+      - aliases
+      - file.name
+      - image
+      - runestone_number
+      - lämningsnummer
+      - province
+      - date_seen
+      - RÄA_nummer
+      - tags
+      - url
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: date_seen
+        direction: ASC
+      - property: runestone_number
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.image: 139
+      note.date_seen: 196

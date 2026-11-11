@@ -10,7 +10,13 @@ Published: true
 ---
 I really enjoyed Double Wars, and the trip to and (most of) the trip home again, but oh, were we tired by the time we finally got home. 
 
-According to Google Maps, the event site is a 15 hour drive to the south of us, if one drives straight through, doesn't stop, and always does the speed limit, no more, no less. No one does that. No one could. Therefore we budgeted extra time. The site opened at 16:00 on Friday, so we hit the road already Wednesday evening, 21 May, at 18:00, stopping in Umeå for a photo at the runestone at the University, in the same building in which I now work. Keldor hadn't seen it before, as last time we tried I was still working for the library, and thus my card didn't let me in that building after hours. This time we also stopped by my office so I could do a quick 15 minute yoga session, as I hadn't had time earlier in the day.
+According to Google Maps, the event site is a 15 hour drive to the south of us, if one drives straight through, doesn't stop, and always does the speed limit, no more, no less. No one does that. No one could. Therefore we budgeted extra time. The site opened at 16:00 on Friday, so we hit the road already Wednesday evening, 21 May, at 18:00, stopping in Umeå for a photo at the runestone at the University, in the same building in which I now work. Keldor hadn't seen it before, as last time we tried I was still working for the library, and thus my card didn't let me in that building after hours. 
+
+![[2025-06-09 UmU runestone.jpg|500]]
+
+This time we also stopped by my office so I could do a quick 15 minute yoga session, as I hadn't had time earlier in the day.
+
+
 
 Our next stop was in Sundsvall, around 03:30, for gas and toilet. As we pulled in I saw that the person filling their tank was wearing a sweatshirt with a skull and crossbones on it, so I said "priate!", and Keldor said "that look like Orm. When we got out of the car, Orm came over for a hug. He was on his way home from work, and was planning on starting for Double Wars the next day.
 
