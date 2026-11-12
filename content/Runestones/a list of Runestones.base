@@ -10,7 +10,7 @@ views:
       - file.name
       - date_seen
     image: note.image
-    cardSize: 140
+    cardSize: 130
   - type: table
     name: View
     filters:
@@ -29,13 +29,16 @@ views:
       - RÄA_nummer
       - tags
       - url
+      - coordinates
     sort:
+      - property: runestone_number
+        direction: ASC
+      - property: aliases
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: date_seen
         direction: ASC
-      - property: runestone_number
-        direction: DESC
     columnSize:
       file.name: 157
       note.image: 139

@@ -34,6 +34,10 @@ date_seen:
 ![[2024-03-01 runesten.png|500]]
 
 ![[2024-03-01 skepssättning.png|500]]
+# [[2023-06-10 Löghammar picknick]] 
+Our first visit to Annundshög and its skeppssättningar and runestone, was for a picknick and fighter practice with the Shire of Löghammar. Talk about an amazing site for an SCA gathering!
+![[2023-06-10 picknick.png|500]]
+
 # Tolkning av runorna
 Folkvid reste alla dessa stenar efter sin son Heden, Anunds broder. Vred högg runorna.
 # Arkeologisk beskrivning av runstenen

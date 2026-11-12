@@ -12,11 +12,11 @@ tags:
   - runestones
   - dragon
 date_seen:
-  - "[[2024-06-06 trip home from Strawberry raid]]"
+  - "[[2024-06-06 trip home from Strawberry raid|2024-06-06]]"
 ---
 > [!info]
 - [ ] figure out which one this one is
-# our photos
+# our photos [[2024-06-06 trip home from Strawberry raid|2024-06-06]]
 ![[2024-06-06 runesten.png|500]]
 # Tolkning av runorna
 

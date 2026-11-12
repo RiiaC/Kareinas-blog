@@ -15,6 +15,7 @@ tags:
   - dragon
 date_seen:
   - wishlist
+coordinates: 59.524872, 17.900313
 ---
 > [!info] Runristning Ladbrostenen, U114, [L2017:4956](https://app.raa.se/open/fornsok/lamning/3caffe11-1d2c-4ed0-8849-cd18c3e39c4d), Ed 45:1 i Upplands Väsby, Stockholm
 > Added to the wishlist [[2025-10-29 A tired day, wherein I did stuff anyway|2025-10-29]], when I saw a photo of this one in the latest issue of Fornvänne, and suddenly my dream of someday owning a runestone was replace with a dream of someday owning a rune boulder.

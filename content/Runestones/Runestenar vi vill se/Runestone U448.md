@@ -12,6 +12,7 @@ date_seen: wishlist
 url: https://runkartan.se/runristningar/runsten-u448-l2016-3495-odensala-135-1-i-sigtuna-stockholm.html
 tags:
   - runestones
+coordinates: 59.680778, 17.865112
 ---
 > [!info] Runsten U448, [L2016:3495](https://app.raa.se/open/fornsok/lamning/8e61e977-1ced-4035-8dc4-2928b955d677), Odensala 135:1 i Sigtuna, Stockholm
 

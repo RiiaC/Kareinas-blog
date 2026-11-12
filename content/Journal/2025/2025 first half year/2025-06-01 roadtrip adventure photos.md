@@ -1,4 +1,4 @@
-# [[runestone Vs13|Anundshögsstenen]]
+# [[Runestone Vs13|Anundshögsstenen]]
 
 ![[2025-06-01 runestone A.png|500]]
 

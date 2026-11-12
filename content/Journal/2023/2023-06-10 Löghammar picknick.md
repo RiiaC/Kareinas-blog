@@ -1,0 +1,4 @@
+Our first visit to Annundshög and its skeppssättningar and [[Runestone Vs13]], was for a picknick and fighter practice with the Shire of Löghammar. Talk about an amazing site for an SCA gathering!
+![[2023-06-10 picknick.png|500]]
+
+ We stayed that night at a cute farm house that Geson is renting for the summer. What an ideal location. While the property is surrounded by fields, the house is so ringed by trees that one can't see the house from the fields (or vice versa). Back in the Bronze Age this area was coastal, and there are many hällristningar (rock art) in the area, so tomorrow's adventure will start with having a look at some of them.
