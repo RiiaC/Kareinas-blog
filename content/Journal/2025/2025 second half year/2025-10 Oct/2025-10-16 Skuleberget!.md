@@ -23,7 +23,7 @@ We are on our way south towards the Boar Hunt event, and we managed to leave the
 
 However, coming back down wearing progressive glasses as twilight approaces meant that downhill took way longer than I remember it talking last time. 
 
-The reason we got on the road so early was that Keldor took the day off to fix the roof. When we cleaned out half the attic last week to get ready to insulate a room up there we noticed light coming in near the wall, and realised that we need to [[Fix a hole in the roof]]
+The reason we got on the road so early was that Keldor took the day off to fix the roof. When we cleaned out half the attic last week to get ready to insulate a room up there we noticed light coming in near the wall, and realised that we need to [[Fix a leak in the roof]]
 
 ![[2025-10-16 hole in roof.jpeg]]
 So yesterday we bought a long enough ladder and this morning, as I worked, he moved enough of the ceramic roof tiles to expose the hole, put tar paper over it, and replaced the tiles.

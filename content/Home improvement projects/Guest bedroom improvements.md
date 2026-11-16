@@ -2,6 +2,11 @@
 Published: true
 ---
 # bed curtains 
+## [[2026-11-15 a yummy Sunday|2026-11-16]]
+I helped Keldor in the basement. We manet to mount the wooden rails to the celing over the top bunk, so we can handmg blackout curtains there, too. We also attached a handle to make it easier to climb into the top bunk, and a mounting place for the top bunk reafing light.
+Then I started heming the second set if blackout curtains to hang.
+## [[2026-11-14 a busy Saturday]]
+Keldor mounted a reading light for the bottom bunk.
 ## [[2026-09-17 still made time for working on the house|2026-09-17]] 
 We started handing bed curtains around the guest bed in the cellar.  Got the bottom bunk covered.  Hemming the cut edges can be done later.
 

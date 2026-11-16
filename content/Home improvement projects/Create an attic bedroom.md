@@ -13,11 +13,15 @@ Above the drawers the bed would be centred in the space, with bookshelves on thr
 
 The opening to the bed area could be framed by decorative wood carved like knotwork dragons or something, covering the sides of the bookshelves, and curtains (dark blue, of course) could hang down and soften the full effect. It will be interesting to see how near to this vision the project comes.
 ##  more details for the vision
-- on [[2026-07-05 leaving Ren fair and adventures|2026-07-05]] I woke up thinking of the attic bedroom, and suddenly thought that perhaps instead of decorating the asbestos pipe to be a fake chimney for an electric "fireplace", perhaps we can seal it in wetroom wallpaper, paint it, and wrap it in very thick roap to be a cat climbing and scratching post.
+### on [[2026-07-05 leaving Ren fair and adventures|2026-07-05]] 
+- -I woke up thinking of the attic bedroom, and suddenly thought that perhaps instead of decorating the asbestos pipe to be a fake chimney for an electric "fireplace", perhaps we can seal it in wetroom wallpaper, paint it, and wrap it in very thick roap to be a cat climbing and scratching post.
 - then we could build a pretty arch bridge between the various beams for them to have the run of up. We could then hang pretty things under the arch bridges that are still high enough to be out of the way.
 - the electric fireplace we could bild into a thin stone wall in front of the sliding door to the bathroom.
 - the new hat rack could go on the wall in the corner of stairs, infront of the door to the cold closet.
 - we should put a floor over the insulation in the cold closet, in case the cats ever get in. Then we could put a hanging rack and move the attic coat storage in there
+### on [[2026-11-16|2026-11-16]] 
+- I woke with a vision of having a wall for hanging the nicr big coat rack centered syh the foot of the bed, with an opening at the foot end ay my side to crawll on, and on Keldor’s side havevthe bed open towards the walkway to the aquarium  
+![[2026-11-16 Sketch bed nook.png|200]]
 # progress notes
 ## [[2026-07-24 more attic progress]] putring up walls and window frame
 ![[2026-07-24 cutting plywood.jpg|500]]
