@@ -5,12 +5,12 @@ This graph shows how many bowls of food I eat each day, averaged for each month,
 
 It also shows my weight, in kg, in red. The graph is divided vertically based on where I was living at the time.
 
-This version of the graph was copied from the spreadsheet on [[2026-11-16|2026-11-16]], and will, I hope, be updated each month or so. 
+This version of the graph was copied from the spreadsheet on [[2026-11-16 ready for guests|2026-11-16]], and will, I hope, be updated each month or so. 
 
 ![[food log month summary.png]]
 
 ## Food log: Percent starch each month, on average
-Last updated on [[2026-11-16|2026-11-16]],
+Last updated on [[2026-11-16 ready for guests|2026-11-16]],
 *(Vertical dividing lines between different locations lived, see [[Food Long Month Summary#Food log Average amount eaten each month|above]] for details)*
 
 ![[food log, starch.png]]

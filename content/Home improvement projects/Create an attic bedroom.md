@@ -19,7 +19,7 @@ The opening to the bed area could be framed by decorative wood carved like knotw
 - the electric fireplace we could bild into a thin stone wall in front of the sliding door to the bathroom.
 - the new hat rack could go on the wall in the corner of stairs, infront of the door to the cold closet.
 - we should put a floor over the insulation in the cold closet, in case the cats ever get in. Then we could put a hanging rack and move the attic coat storage in there
-### on [[2026-11-16|2026-11-16]] 
+### on [[2026-11-16 ready for guests|2026-11-16]] 
 - I woke with a vision of having a wall for hanging the nicr big coat rack centered syh the foot of the bed, with an opening at the foot end ay my side to crawll on, and on Keldor’s side havevthe bed open towards the walkway to the aquarium  
 ![[2026-11-16 Sketch bed nook.png|200]]
 # progress notes
