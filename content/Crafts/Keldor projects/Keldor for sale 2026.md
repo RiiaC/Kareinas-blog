@@ -26,8 +26,8 @@ Here is the price list, in Euros, sorted alphabetically by name under each categ
 - [ ] [[Knives#Stig-Olof|Stig-Olof]] €75
 - [ ] [[Knives#Takiuki|Takiuki]] €80
 - [ ] [[Knives#Valerie|Valerie]] €500
-- [ ] [[Knives#Wembley|Wembley]]  €200
-- [ ] [[Knives#Wilbur||Wilbur]] €130
+- [ ] [[Knives#Wembley|Wembley]]  €350
+- [ ] [[Knives#Wilbur|Wilbur]] €130
 # Other
 - [ ] [[Other#Arrow points|Arrow Points]] €10 each
 - [ ] [[Other#small trinkets|Small trinkets]] €35 each
@@ -41,3 +41,5 @@ Here is the price list, in Euros, sorted alphabetically by name under each categ
 
 - [x] Slagugla €220 (Japanese white paper steel blade) (this plus bluevfor 320 total (50 discout to s parent and child))
 - [x] Benny €220 (Purple mammoth, white bone, and stabilized wood handel, with a pattern moasic pin and decorated with an infinity heart) to Juliette
+# not for sale
+- [ ] [[Kareina's knife]]

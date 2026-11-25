@@ -31,19 +31,23 @@ My [[Old winter coat]], that I had mafe when I lived in Tasmania and for which I
 - [x] slit it from neck to waist and insert a paper triangle
 - [x] adjust the size of the triangle till it is a good size to shift the armholes to a better position
 - [x] cut a cloth triangle that size, line it
-- [ ] insert the new upper back triangle gore into the coat (got to this step [[2026-11-08 a productive morning|2028-06-08]] )
+- [x] insert the new upper back triangle gore into the coat (got to this step [[2026-11-08 a productive morning|2028-06-08]] )
+- [ ] remove the first, folded, attempt at sleeve cuffs and unfold them
+- [ ] sew silk lining to the cuffs
+- [ ] add reflex to the cuffs
 - [ ] cut two more sleeve rectangles to make them even fuller.
 - [ ] sew the sleeves shut
-- [ ] design and cut the collar
-- [ ] attach the collar
+- [ ] put the cuffs back on
+- [ ] sew a collar bit from waist to neck 
+- [ ] attach the collar to the nexk
 - [ ] deside if the side rectangles also needs tailoring; if so, do it
 - [ ] sew the side rectangles to the body up to the armpit
 - [ ] decide if you can just cut the side gore underarm bit to a trisngle point as is, or if it will need an extension, and then do it
 - [ ] design and cut the pockets
 - [ ] attach the pockets
-- [ ] buy more reflex trim
-- [ ] make the belt, with reflex trimcovering the seam
-- [ ] add belt loops
+- [x] buy more reflex trim
+- [x] make the belt, with reflex trimcovering the seam
+- [ ] attach the belt to the waist
 - [ ] add more trim to the skirt and the pockets
 
 ## the days I worked on it

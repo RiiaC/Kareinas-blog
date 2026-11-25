@@ -8,7 +8,7 @@ province: Västernorrland
 runestone_number: M1
 lämningsnummer: "[L1935:2750](https://pub.raa.se/visa/objekt/lamning/c88b7ac4-2e2a-4478-a569-281e2e7d9f1b)"
 RÄA_nummer: Njurunda 116:1 i Sundsvall
-image:
+image: "[[2023-06-09_25.jpg]]"
 url: https://runkartan.se/runristningar/runsten-burestenen-m1-l1935-2750-njurunda-116-1-i-sundsvall-vasternorrland.html
 tags:
   - runestones
@@ -16,6 +16,7 @@ tags:
   - cross
 date_seen:
   - "[[2023-06-09 Roadtrip to Drachenwald 30 Year Celebration, day 1|2023-06-09]]"
+  - "[[2026-11-22 road trip home]]"
 coordinates: 62.291945, 17.360943
 ---
 > [!info] Runsten Burestenen, M1, [L1935:2750](https://pub.raa.se/visa/objekt/lamning/c88b7ac4-2e2a-4478-a569-281e2e7d9f1b), Njurunda 116:1 i Sundsvall, Västernorrland

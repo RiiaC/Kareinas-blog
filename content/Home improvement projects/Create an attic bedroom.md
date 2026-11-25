@@ -22,6 +22,22 @@ The opening to the bed area could be framed by decorative wood carved like knotw
 ### on [[2026-11-16 ready for guests|2026-11-16]] 
 - I woke with a vision of having a wall for hanging the nicr big coat rack centered syh the foot of the bed, with an opening at the foot end ay my side to crawll on, and on Keldor’s side havevthe bed open towards the walkway to the aquarium  
 ![[2026-11-16 Sketch bed nook.png|200]]
+# email sent to Simon [[2026-11-17 not to scale|2026-11-17]]
+> Hej Simon!
+> Tack igen för din hjälp med att bygga badrum på vinden på Ringvägen 6 i Lövånger. Vi är fortfarande väldigt nöjda med resultatet.
+> Nu, ungefär ett år senare, är vi nästan klar med sovrummet där uppe. Jag funderar på om vi ska bygga sängen med tillhörande lådor själv, eller vore bättre att ta hjälp, och få ett färdigt resultat betydligt snabbare.
+> Jag har ännu inte gjort någon ritning i skala, så den exakta storleken och utformningen är inte helt bestämd. Grundtanken är dock:
+> - en ganska hög säng i horn av rummet
+> - många utdragslådor undertill, åt två håll 
+> - ett öppet förvaringsutrymme längst in bakom lådorna
+> - bokhyllor för inbundna böcker mellan sängen och väggarna på två sidor
+> - ytterligare två bokhyllor för pocketbok i andra hörnet av sängen
+> Tanken är alltså att själva sängen ska bli som ett litet rum, ungefär så här *(see also C:\Obsidian files\Corel files\bed sketch.cdr)*:
+![[2026-11-17 bed sketch.png|500]]
+> Är detta ett projekt du skulle vara intresserad av?  
+> Gör du även lådor? Det är just den delen av arbetet som jag tvekar inför. Jag har inga problem med att vi bygga hyllorna, och själva sängramen skulle vi också kunna göra, men att få lådorna och skenor att fungera bra känns betydligt mer komplicerad.
+> Om projektet låter intressant, hur ser ditt schema ut? När skulle du har tid för ett sådant jobb? Vill du träffa oss för att diskutera det närmare?  Du är förstås välkommen hit, men vi kan också ta ett videosamtal om det passar bättre.
+> Med vänliga hälsningar, --Riia
 # progress notes
 ## [[2026-07-24 more attic progress]] putring up walls and window frame
 ![[2026-07-24 cutting plywood.jpg|500]]

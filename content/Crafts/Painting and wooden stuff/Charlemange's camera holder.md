@@ -25,7 +25,7 @@ If I still want to go with painted silk for the middle "jewels", I wonder if sew
 The [[Charlemange's camera holder#Useable Cardboard Mock-up Progress Log|cardboard mock-up]]  was usable for a couple of BmCrown Tournaments, but I wanted something that could last longer term, and be less sensitive to rain.
 ## [[2026-09-20 who has time|2026-09-20]]
 - started painting the leather panels that Alfarinn printed for me last spring
-- [ ] copy over the other painting progress from the backlinks (@2026-11-23)
+- [ ] copy over the other painting progress from the backlinks (@2026-11-30)
 ## [[2026-03-21 progress in more directions than I had anticipated|2026-03-21]]
 I cut a piece of heavy leather to test my calculations for my [[Charlemange's camera holder]] circlet, and I determined that while it will work as planned to hold the camera, cutting all the pannels by hand in that thickness will take far too long. 
 So I sent an note to Alfarinn to ask if there was a possibility to get the pieces cut in their laser cutter and we could pick it up next weekend when we are there. Alternatively, I could do it in painted cardboard, but a leather version would last longer

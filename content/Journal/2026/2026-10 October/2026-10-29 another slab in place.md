@@ -15,6 +15,7 @@ training:
 projects:
   - "[[Paving stones for the parking area, etc.]]"
   - "[[Create an attic bedroom]]"
+  - "[[Gilbert Embroidery]]"
 tags:
 Published: true
 ---

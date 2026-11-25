@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Embroidery]]"
+  - "[[Gilbert Embroidery]]"
 tags:
 Published: true
 ---

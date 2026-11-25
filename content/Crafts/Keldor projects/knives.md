@@ -12,7 +12,7 @@ Kitchen knife, willow burl handel, tooled leather sheath
 Black oak handle, mosaic rivits
 ![[2026-10-20 Bertha.jpg|500]]
 # Bethany 
--  [[2026-10-02 fredag Höstdansen]]
+-  [[2026-10-02 fredag Höstdansen|2026-10-02]]
 The new knife, Bethany, made its first appearance at an event.
 
 ![[2026-10-20 Bethany.jpg|500]]
